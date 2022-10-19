@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+
+  loader:
+    container_name: loader
+    build: ./back-end/loader
+    env_file:
+      - .env
+    ports:
+      - 8050:8050
+    restart: always
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./back-end/loader:/usr/src/app
