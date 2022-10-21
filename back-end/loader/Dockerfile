@@ -6,6 +6,6 @@ COPY requirements.txt .
 
 RUN pip install -r requirements.txt
 
-COPY sample_data .
+COPY . .
 
 ENTRYPOINT [ "python3" ]

@@ -1,5 +1,3 @@
 FROM mongo@sha256:e0b1614551474ee2f3c3ef7c9706b5e19f2107aa36b73c910522af9fa8eb756e
 
 WORKDIR /data
-
-CMD ["mongod"]

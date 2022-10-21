@@ -6,7 +6,8 @@ def main():
 
     p = set_path(dir=".")
     files = get_files(path=p, dir="data")
-    for file in list(files)[0:1]:
+
+    for file in list(files):
         parser(str(file))
 
 

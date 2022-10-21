@@ -55,15 +55,15 @@ def parser(file):
                     obj[field.name] = v
                 data.update(obj)
 
-    with open(f"{activity_id}.json", "w") as outfile:
-        outfile.write(json.dumps(data))
+    # load data to mongodb
+    import pymongo
 
+    client = pymongo.MongoClient(
+        "mongodb://db:27017/",
+        username="root",
+        password="rootpassword",
+    )
+    database = client["rundb"]
+    collection = database["runs"]
 
-# load data to mongodb
-# import pymongo
-
-# client = pymongo.MongoClient("mongodb://localhost:27017/")
-# database = client["runDb"]
-# collection = mydb["runs"]
-
-# x = mycol.insert_one(data)
+    x = collection.insert_one(data)

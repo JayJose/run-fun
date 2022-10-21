@@ -5,6 +5,8 @@ services:
   loader:
     container_name: loader
     build: ./back-end/loader
+    depends_on:
+      - db
     env_file:
       - .env
     ports:
