@@ -14,3 +14,14 @@ services:
     tty: true
     volumes:
       - ./back-end/loader:/usr/src/app
+
+  mongodb_container:
+    container_name: mongodb
+    build: ./back-end/mongodb
+    env_file:
+      - .env
+    ports:
+    restart: always
+      - 27017:27017
+    volumes:
+      - mongodb_data_container:/data/db      
