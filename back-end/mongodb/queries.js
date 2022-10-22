@@ -1,11 +1,6 @@
 // identify documents where the sport is not equal to running
 import { MongoClient } from "mongodb";
 
-/*
- * Requires the MongoDB Node.js Driver
- * https://mongodb.github.io/node-mongodb-native
- */
-
 const filter = {
   "lap.sport": {
     $ne: "running",
@@ -34,11 +29,6 @@ await client.close();
 
 // aggregate by run (activity with a sport = 'running')
 import { MongoClient } from "mongodb";
-
-/*
- * Requires the MongoDB Node.js Driver
- * https://mongodb.github.io/node-mongodb-native
- */
 
 const agg = [
   {
@@ -113,3 +103,95 @@ const result = await cursor.toArray();
 await client.close();
 
 // aggregate by date (for calendar view)
+import { MongoClient } from "mongodb";
+
+/*
+ * Requires the MongoDB Node.js Driver
+ * https://mongodb.github.io/node-mongodb-native
+ */
+
+const agg = [
+  {
+    $addFields: {
+      day: {
+        $dateToString: {
+          format: "%Y-%m-%d",
+          date: {
+            $toDate: "$local_timestamp",
+          },
+        },
+      },
+    },
+  },
+  {
+    $unwind: {
+      path: "$lap",
+    },
+  },
+  {
+    $match: {
+      "lap.sport": {
+        $eq: "running",
+      },
+    },
+  },
+  {
+    $group: {
+      _id: "$day",
+      sport: {
+        $first: "$lap.sport",
+      },
+      totalDistanceMeters: {
+        $sum: "$lap.total_distance",
+      },
+      totalTimeSeconds: {
+        $sum: "$lap.total_elapsed_time",
+      },
+      totalCalories: {
+        $sum: "$lap.total_calories",
+      },
+      totalStrides: {
+        $sum: "$lap.total_strides",
+      },
+    },
+  },
+  {
+    $project: {
+      _id: 0,
+      day: "$_id",
+      value: {
+        $round: [
+          {
+            $divide: ["$totalDistanceMeters", 1609],
+          },
+          1,
+        ],
+      },
+      totalTimeMinutes: {
+        $round: [
+          {
+            $divide: ["$totalTimeSeconds", 60],
+          },
+          1,
+        ],
+      },
+      totalDistanceMiles: {
+        $round: [
+          {
+            $divide: ["$totalDistanceMeters", 1609],
+          },
+          1,
+        ],
+      },
+    },
+  },
+];
+
+const client = await MongoClient.connect(
+  "mongodb://root:rootpassword@localhost:27017/?authMechanism=DEFAULT",
+  { useNewUrlParser: true, useUnifiedTopology: true }
+);
+const coll = client.db("rundb").collection("runs");
+const cursor = coll.aggregate(agg);
+const result = await cursor.toArray();
+await client.close();
