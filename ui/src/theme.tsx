@@ -14,8 +14,8 @@ const theme = extendTheme({
   semanticTokens: {
     colors: {
       text: {
-        default: '#16161D',
-        _dark: '#ade3b8',
+        default: 'black',
+        _dark: 'black',
       },
       heroGradientStart: {
         default: '#7928CA',
@@ -31,7 +31,7 @@ const theme = extendTheme({
     },
   },
   colors: {
-    black: '#16161D',
+    black: 'black',
   },
   fonts,
   breakpoints,
