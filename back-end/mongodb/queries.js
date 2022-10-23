@@ -195,3 +195,120 @@ const coll = client.db("rundb").collection("runs");
 const cursor = coll.aggregate(agg);
 const result = await cursor.toArray();
 await client.close();
+
+// cumulative miles by year and month
+import { MongoClient } from "mongodb";
+
+/*
+ * Requires the MongoDB Node.js Driver
+ * https://mongodb.github.io/node-mongodb-native
+ */
+
+const agg = [
+  {
+    $unset: [
+      "record",
+      "username",
+      "total_timer_time",
+      "event",
+      "event_type",
+      "type",
+      "num_sessions",
+      "timestamp",
+    ],
+  },
+  {
+    $unwind: {
+      path: "$lap",
+    },
+  },
+  {
+    $match: {
+      "lap.sport": {
+        $eq: "running",
+      },
+    },
+  },
+  {
+    $addFields: {
+      year: {
+        $year: {
+          $toDate: "$local_timestamp",
+        },
+      },
+      month: {
+        $month: {
+          $toDate: "$local_timestamp",
+        },
+      },
+      miles: {
+        $divide: ["$lap.total_distance", 1609],
+      },
+    },
+  },
+  {
+    $group: {
+      _id: {
+        year: "$year",
+        month: "$month",
+      },
+      totalMiles: {
+        $sum: "$miles",
+      },
+    },
+  },
+  {
+    $setWindowFields: {
+      partitionBy: "$_id.year",
+      sortBy: {
+        "_id.month": 1,
+      },
+      output: {
+        cumTotalMiles: {
+          $sum: "$totalMiles",
+          window: {
+            documents: ["unbounded", "current"],
+          },
+        },
+      },
+    },
+  },
+  {
+    $sort: {
+      "_id.year": 1,
+      "_id.month": 1,
+    },
+  },
+  {
+    $group: {
+      _id: "$_id.year",
+      data: {
+        $addToSet: {
+          x: "$_id.month",
+          y: "$cumTotalMiles",
+        },
+      },
+    },
+  },
+  {
+    $project: {
+      _id: 0,
+      id: "$_id",
+      data: 1,
+    },
+  },
+  {
+    $sort: {
+      id: 1,
+    },
+  },
+];
+
+const client = await MongoClient.connect(
+  "mongodb://root:rootpassword@localhost:27017/?authMechanism=DEFAULT",
+  { useNewUrlParser: true, useUnifiedTopology: true }
+);
+const coll = client.db("rundb").collection("runs");
+const cursor = coll.aggregate(agg);
+const result = await cursor.toArray();
+await client.close();
