@@ -5,6 +5,7 @@ import {
   List,
   ListIcon,
   ListItem,
+  Heading,
 } from '@chakra-ui/react'
 import { CheckCircleIcon, LinkIcon } from '@chakra-ui/icons'
 
@@ -18,7 +19,7 @@ import  MyResponsiveCalendar  from '../components/Calendar'
 
 const Index = () => (
   <Container height="100vh">
-
+<Heading mt={3}>Run 🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃🏃</Heading>
 <MyResponsiveCalendar></MyResponsiveCalendar>
 
   </Container>

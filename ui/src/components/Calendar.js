@@ -5,50 +5,59 @@ import runs from "../data/runsByDay.json";
 const theme = {
   theme: {
     fontSize: 10,
-    textColor: "white",
+    textColor: "#ffffff",
+    axis: {
+      domain: {
+        line: {
+          stroke: "#777777",
+          strokeWidth: 1,
+        },
+      },
+      legend: {
+        text: {
+          fontSize: 32,
+          fill: "#ffffff",
+        },
+      },
+      ticks: {
+        line: {
+          stroke: "#777777",
+          strokeWidth: 0,
+        },
+        text: {
+          fontSize: 10,
+          fill: "white",
+        },
+      },
+    },
+    legends: {
+      text: {
+        fontSize: 12,
+      },
+    },
   },
   tooltip: {
     container: {
       background: "#ffffff",
       color: "#333333",
-      fontSize: 11,
-    },
-  },
-  legends: {
-    text: {
-      fontSize: 12,
-      color: "#ffffff",
+      fontSize: 14,
     },
   },
 };
-//
-//       legend: {
-//         text: {
-//           fontSize: 11,
-//         },
-//       },
-//       ticks: {
-//         line: {
-//           stroke: "#777777",
-//           strokeWidth: 0,
-//         },
-//         text: {
-//           fontSize: 10,
-//           fill: "white",
-//         },
-//       },
-//     },
-//     legends: {
-//       text: {
-//         fontSize: 12,
-//       },
-//     },
-//     },
-//   },
 
 export default function MyResponsiveCalendar() {
   const data = runs;
-  const colors = ["#f2f0f7", "#cbc9e2", "#9e9ac8", "#6a51a3"];
+  const colors = [
+    "#fcfbfd",
+    "#efedf5",
+    "#dadaeb",
+    "#bcbddc",
+    "#9e9ac8",
+    "#807dba",
+    "#6a51a3",
+    "#54278f",
+    "#3f007d",
+  ];
   return (
     <ResponsiveCalendar
       theme={theme}
