@@ -1,0 +1,4610 @@
+[
+  {
+    "day": "2022-01-14",
+    "value": 6.6,
+    "totalTimeMinutes": 55.5,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2020-01-17",
+    "value": 5.8,
+    "totalTimeMinutes": 45.2,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2020-11-29",
+    "value": 3.1,
+    "totalTimeMinutes": 33.6,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2021-11-11",
+    "value": 6,
+    "totalTimeMinutes": 47.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-09-22",
+    "value": 7.1,
+    "totalTimeMinutes": 53.9,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2022-05-30",
+    "value": 7,
+    "totalTimeMinutes": 55.1,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-03-31",
+    "value": 4.3,
+    "totalTimeMinutes": 31.1,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2022-08-13",
+    "value": 8.6,
+    "totalTimeMinutes": 70,
+    "totalDistanceMiles": 8.6
+  },
+  {
+    "day": "2022-06-22",
+    "value": 6,
+    "totalTimeMinutes": 44.9,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-04-17",
+    "value": 3.9,
+    "totalTimeMinutes": 32.3,
+    "totalDistanceMiles": 3.9
+  },
+  {
+    "day": "2019-09-20",
+    "value": 5.3,
+    "totalTimeMinutes": 39.8,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2022-02-17",
+    "value": 5.1,
+    "totalTimeMinutes": 37.7,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2019-10-11",
+    "value": 3.3,
+    "totalTimeMinutes": 36.3,
+    "totalDistanceMiles": 3.3
+  },
+  {
+    "day": "2020-02-15",
+    "value": 4.1,
+    "totalTimeMinutes": 30.7,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2022-07-11",
+    "value": 6.5,
+    "totalTimeMinutes": 53.9,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2019-12-27",
+    "value": 7.9,
+    "totalTimeMinutes": 58.8,
+    "totalDistanceMiles": 7.9
+  },
+  {
+    "day": "2019-12-26",
+    "value": 7.6,
+    "totalTimeMinutes": 60.9,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2020-08-01",
+    "value": 6,
+    "totalTimeMinutes": 43.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-03-07",
+    "value": 7,
+    "totalTimeMinutes": 52.8,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-03-10",
+    "value": 5,
+    "totalTimeMinutes": 38.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-11-20",
+    "value": 10,
+    "totalTimeMinutes": 74.2,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2022-04-16",
+    "value": 12,
+    "totalTimeMinutes": 97.3,
+    "totalDistanceMiles": 12
+  },
+  {
+    "day": "2020-11-09",
+    "value": 4.1,
+    "totalTimeMinutes": 31,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2020-10-03",
+    "value": 5.2,
+    "totalTimeMinutes": 40.3,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2021-03-09",
+    "value": 6.3,
+    "totalTimeMinutes": 51.3,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-04-07",
+    "value": 5,
+    "totalTimeMinutes": 38.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-09-23",
+    "value": 6.4,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-05-30",
+    "value": 5.7,
+    "totalTimeMinutes": 46.2,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2022-02-14",
+    "value": 6.4,
+    "totalTimeMinutes": 48.4,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-06-20",
+    "value": 5.4,
+    "totalTimeMinutes": 40.2,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2021-09-07",
+    "value": 4.5,
+    "totalTimeMinutes": 39.9,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2019-11-12",
+    "value": 4.8,
+    "totalTimeMinutes": 33.7,
+    "totalDistanceMiles": 4.8
+  },
+  {
+    "day": "2021-12-21",
+    "value": 4.9,
+    "totalTimeMinutes": 42.3,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2020-06-19",
+    "value": 5.3,
+    "totalTimeMinutes": 41.2,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2021-03-27",
+    "value": 9.2,
+    "totalTimeMinutes": 76,
+    "totalDistanceMiles": 9.2
+  },
+  {
+    "day": "2022-02-02",
+    "value": 7.1,
+    "totalTimeMinutes": 53.9,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2020-03-28",
+    "value": 6,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-08-24",
+    "value": 5,
+    "totalTimeMinutes": 40.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-07-23",
+    "value": 8,
+    "totalTimeMinutes": 64.5,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-06-26",
+    "value": 7,
+    "totalTimeMinutes": 54.4,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-04-24",
+    "value": 6,
+    "totalTimeMinutes": 48.3,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-07-25",
+    "value": 8,
+    "totalTimeMinutes": 61.7,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-10-28",
+    "value": 5.7,
+    "totalTimeMinutes": 44.3,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-04-19",
+    "value": 4,
+    "totalTimeMinutes": 29.7,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2020-10-21",
+    "value": 5.2,
+    "totalTimeMinutes": 39.3,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2022-03-14",
+    "value": 6.4,
+    "totalTimeMinutes": 49.5,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-10-19",
+    "value": 7,
+    "totalTimeMinutes": 54.8,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-10-02",
+    "value": 6.2,
+    "totalTimeMinutes": 54.3,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2022-10-11",
+    "value": 9.8,
+    "totalTimeMinutes": 75.1,
+    "totalDistanceMiles": 9.8
+  },
+  {
+    "day": "2019-07-06",
+    "value": 7.1,
+    "totalTimeMinutes": 52.6,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2022-10-04",
+    "value": 7.3,
+    "totalTimeMinutes": 49.5,
+    "totalDistanceMiles": 7.3
+  },
+  {
+    "day": "2022-08-09",
+    "value": 5,
+    "totalTimeMinutes": 43.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-07-17",
+    "value": 6,
+    "totalTimeMinutes": 44.3,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-01-24",
+    "value": 7.5,
+    "totalTimeMinutes": 54.7,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2019-10-23",
+    "value": 5.3,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2021-11-06",
+    "value": 11,
+    "totalTimeMinutes": 79.7,
+    "totalDistanceMiles": 11
+  },
+  {
+    "day": "2021-03-14",
+    "value": 4.4,
+    "totalTimeMinutes": 37.4,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-10-03",
+    "value": 4.3,
+    "totalTimeMinutes": 36.6,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2022-05-02",
+    "value": 7,
+    "totalTimeMinutes": 48.5,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-09-28",
+    "value": 5.4,
+    "totalTimeMinutes": 42.1,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2022-02-28",
+    "value": 4.3,
+    "totalTimeMinutes": 33.6,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2022-09-08",
+    "value": 8.1,
+    "totalTimeMinutes": 62.2,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2019-07-19",
+    "value": 3.8,
+    "totalTimeMinutes": 29.2,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2022-02-25",
+    "value": 6.3,
+    "totalTimeMinutes": 50.7,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2020-05-27",
+    "value": 5.2,
+    "totalTimeMinutes": 42.4,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2020-02-09",
+    "value": 8.1,
+    "totalTimeMinutes": 59.3,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-11-19",
+    "value": 6,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-08-08",
+    "value": 6,
+    "totalTimeMinutes": 49.2,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-12-24",
+    "value": 6.2,
+    "totalTimeMinutes": 55.4,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-12-31",
+    "value": 4,
+    "totalTimeMinutes": 35.1,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2022-06-28",
+    "value": 6.2,
+    "totalTimeMinutes": 47,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2022-09-09",
+    "value": 3.8,
+    "totalTimeMinutes": 31.3,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2021-05-13",
+    "value": 6.3,
+    "totalTimeMinutes": 48.3,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-02-02",
+    "value": 5,
+    "totalTimeMinutes": 42.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-10-15",
+    "value": 6.5,
+    "totalTimeMinutes": 52.9,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2019-09-25",
+    "value": 5,
+    "totalTimeMinutes": 44.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-06-13",
+    "value": 6,
+    "totalTimeMinutes": 45.7,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-01-10",
+    "value": 8.1,
+    "totalTimeMinutes": 63.6,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2022-02-19",
+    "value": 8,
+    "totalTimeMinutes": 52.8,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-11-14",
+    "value": 4.2,
+    "totalTimeMinutes": 35.1,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2021-10-11",
+    "value": 4.3,
+    "totalTimeMinutes": 34.1,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2020-08-07",
+    "value": 4.4,
+    "totalTimeMinutes": 50.3,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2019-07-09",
+    "value": 5.7,
+    "totalTimeMinutes": 40.1,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2021-07-14",
+    "value": 5,
+    "totalTimeMinutes": 35.6,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-04-20",
+    "value": 6,
+    "totalTimeMinutes": 46.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-11-19",
+    "value": 5.2,
+    "totalTimeMinutes": 39.9,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2019-10-22",
+    "value": 5.3,
+    "totalTimeMinutes": 43.8,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-11-22",
+    "value": 7.8,
+    "totalTimeMinutes": 63.9,
+    "totalDistanceMiles": 7.8
+  },
+  {
+    "day": "2021-09-11",
+    "value": 8,
+    "totalTimeMinutes": 65.3,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-04-28",
+    "value": 5.6,
+    "totalTimeMinutes": 45.3,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2019-09-10",
+    "value": 3.6,
+    "totalTimeMinutes": 28.7,
+    "totalDistanceMiles": 3.6
+  },
+  {
+    "day": "2022-03-12",
+    "value": 9.1,
+    "totalTimeMinutes": 63.7,
+    "totalDistanceMiles": 9.1
+  },
+  {
+    "day": "2022-08-12",
+    "value": 6,
+    "totalTimeMinutes": 44.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-04-13",
+    "value": 7.7,
+    "totalTimeMinutes": 61.1,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2019-11-21",
+    "value": 6,
+    "totalTimeMinutes": 47.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-04-07",
+    "value": 4.9,
+    "totalTimeMinutes": 36.6,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2020-12-29",
+    "value": 5,
+    "totalTimeMinutes": 34.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-06-19",
+    "value": 7.6,
+    "totalTimeMinutes": 60.9,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2021-07-18",
+    "value": 6.1,
+    "totalTimeMinutes": 53,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2022-08-01",
+    "value": 5.1,
+    "totalTimeMinutes": 38.5,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2019-08-02",
+    "value": 6.2,
+    "totalTimeMinutes": 43.3,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-03-17",
+    "value": 5.2,
+    "totalTimeMinutes": 36.3,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2022-06-27",
+    "value": 5,
+    "totalTimeMinutes": 40.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-10-25",
+    "value": 4.3,
+    "totalTimeMinutes": 33.4,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2021-01-16",
+    "value": 8.1,
+    "totalTimeMinutes": 58.7,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-05-02",
+    "value": 6.6,
+    "totalTimeMinutes": 54.6,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2020-03-17",
+    "value": 4.7,
+    "totalTimeMinutes": 32.3,
+    "totalDistanceMiles": 4.7
+  },
+  {
+    "day": "2019-08-25",
+    "value": 7.5,
+    "totalTimeMinutes": 54.9,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2022-08-29",
+    "value": 6.1,
+    "totalTimeMinutes": 48.2,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2019-12-16",
+    "value": 2.3,
+    "totalTimeMinutes": 26.3,
+    "totalDistanceMiles": 2.3
+  },
+  {
+    "day": "2022-08-15",
+    "value": 6.1,
+    "totalTimeMinutes": 52.1,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2022-04-02",
+    "value": 13.1,
+    "totalTimeMinutes": 100.4,
+    "totalDistanceMiles": 13.1
+  },
+  {
+    "day": "2022-05-26",
+    "value": 8.4,
+    "totalTimeMinutes": 65.3,
+    "totalDistanceMiles": 8.4
+  },
+  {
+    "day": "2022-06-14",
+    "value": 5,
+    "totalTimeMinutes": 37.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-04-15",
+    "value": 5.4,
+    "totalTimeMinutes": 42.1,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2020-11-24",
+    "value": 4.4,
+    "totalTimeMinutes": 37.7,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-08-08",
+    "value": 5.6,
+    "totalTimeMinutes": 40.7,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2020-11-15",
+    "value": 6,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-08-22",
+    "value": 6,
+    "totalTimeMinutes": 44.5,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-12-18",
+    "value": 7.7,
+    "totalTimeMinutes": 61.1,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2021-06-22",
+    "value": 5,
+    "totalTimeMinutes": 36.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-07-20",
+    "value": 4.9,
+    "totalTimeMinutes": 39.3,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2021-09-30",
+    "value": 2.7,
+    "totalTimeMinutes": 21.8,
+    "totalDistanceMiles": 2.7
+  },
+  {
+    "day": "2021-02-06",
+    "value": 6.3,
+    "totalTimeMinutes": 46.1,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2020-11-06",
+    "value": 6,
+    "totalTimeMinutes": 43.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-09-05",
+    "value": 6,
+    "totalTimeMinutes": 46.5,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-07-09",
+    "value": 6,
+    "totalTimeMinutes": 46.5,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-04-14",
+    "value": 6.1,
+    "totalTimeMinutes": 45,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2021-06-05",
+    "value": 6.5,
+    "totalTimeMinutes": 49.8,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2022-02-22",
+    "value": 7,
+    "totalTimeMinutes": 57.6,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-09-29",
+    "value": 4.8,
+    "totalTimeMinutes": 35.3,
+    "totalDistanceMiles": 4.8
+  },
+  {
+    "day": "2020-08-15",
+    "value": 3.7,
+    "totalTimeMinutes": 31.3,
+    "totalDistanceMiles": 3.7
+  },
+  {
+    "day": "2020-07-25",
+    "value": 5.6,
+    "totalTimeMinutes": 42,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2020-08-02",
+    "value": 4.4,
+    "totalTimeMinutes": 47.1,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-01-09",
+    "value": 8,
+    "totalTimeMinutes": 61.5,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-06-04",
+    "value": 5,
+    "totalTimeMinutes": 36.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-04-25",
+    "value": 7.5,
+    "totalTimeMinutes": 55.1,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2022-01-22",
+    "value": 8,
+    "totalTimeMinutes": 63.3,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-12-23",
+    "value": 6.7,
+    "totalTimeMinutes": 49.5,
+    "totalDistanceMiles": 6.7
+  },
+  {
+    "day": "2022-05-07",
+    "value": 13.2,
+    "totalTimeMinutes": 100.3,
+    "totalDistanceMiles": 13.2
+  },
+  {
+    "day": "2019-12-07",
+    "value": 6.5,
+    "totalTimeMinutes": 50.6,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2020-01-11",
+    "value": 3.1,
+    "totalTimeMinutes": 23.1,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2020-06-27",
+    "value": 6.5,
+    "totalTimeMinutes": 49.8,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-04-27",
+    "value": 5.4,
+    "totalTimeMinutes": 43.2,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2021-08-07",
+    "value": 7.6,
+    "totalTimeMinutes": 59.2,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2022-05-03",
+    "value": 5.1,
+    "totalTimeMinutes": 39.3,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2020-06-01",
+    "value": 5.1,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2020-04-12",
+    "value": 6.1,
+    "totalTimeMinutes": 46,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2022-05-16",
+    "value": 5.7,
+    "totalTimeMinutes": 46,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2019-07-10",
+    "value": 6.2,
+    "totalTimeMinutes": 44.9,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-10-22",
+    "value": 7,
+    "totalTimeMinutes": 53.4,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-07-14",
+    "value": 8,
+    "totalTimeMinutes": 60.5,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-09-01",
+    "value": 6.1,
+    "totalTimeMinutes": 45.5,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2020-09-25",
+    "value": 6.5,
+    "totalTimeMinutes": 49.6,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-10-18",
+    "value": 5.4,
+    "totalTimeMinutes": 44.1,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2022-05-14",
+    "value": 12.5,
+    "totalTimeMinutes": 102.6,
+    "totalDistanceMiles": 12.5
+  },
+  {
+    "day": "2020-09-30",
+    "value": 5.8,
+    "totalTimeMinutes": 43.3,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2020-11-01",
+    "value": 9.1,
+    "totalTimeMinutes": 73.7,
+    "totalDistanceMiles": 9.1
+  },
+  {
+    "day": "2020-05-25",
+    "value": 2.3,
+    "totalTimeMinutes": 31.8,
+    "totalDistanceMiles": 2.3
+  },
+  {
+    "day": "2022-02-08",
+    "value": 7,
+    "totalTimeMinutes": 57.3,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-09-04",
+    "value": 5.1,
+    "totalTimeMinutes": 40.2,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2020-08-19",
+    "value": 5.3,
+    "totalTimeMinutes": 38.9,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2021-07-23",
+    "value": 4,
+    "totalTimeMinutes": 41.4,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2022-10-07",
+    "value": 2.2,
+    "totalTimeMinutes": 20.2,
+    "totalDistanceMiles": 2.2
+  },
+  {
+    "day": "2020-09-07",
+    "value": 7,
+    "totalTimeMinutes": 54.5,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-08-21",
+    "value": 5,
+    "totalTimeMinutes": 39,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-04-22",
+    "value": 4.3,
+    "totalTimeMinutes": 35.2,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2019-11-29",
+    "value": 5.5,
+    "totalTimeMinutes": 42.1,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2020-04-28",
+    "value": 8,
+    "totalTimeMinutes": 58.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-04-25",
+    "value": 7.3,
+    "totalTimeMinutes": 59.6,
+    "totalDistanceMiles": 7.3
+  },
+  {
+    "day": "2020-07-03",
+    "value": 6,
+    "totalTimeMinutes": 47.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-11-17",
+    "value": 5,
+    "totalTimeMinutes": 38.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-11-25",
+    "value": 3,
+    "totalTimeMinutes": 27.4,
+    "totalDistanceMiles": 3
+  },
+  {
+    "day": "2020-09-15",
+    "value": 7,
+    "totalTimeMinutes": 47.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-12-13",
+    "value": 7.1,
+    "totalTimeMinutes": 56.1,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2021-01-12",
+    "value": 5,
+    "totalTimeMinutes": 44,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-08-23",
+    "value": 6.6,
+    "totalTimeMinutes": 47.5,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2022-04-21",
+    "value": 5,
+    "totalTimeMinutes": 38.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-05-20",
+    "value": 6.4,
+    "totalTimeMinutes": 52.5,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2022-04-14",
+    "value": 7,
+    "totalTimeMinutes": 52.5,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-02-14",
+    "value": 5.7,
+    "totalTimeMinutes": 44.5,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2019-10-18",
+    "value": 6.2,
+    "totalTimeMinutes": 48,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-10-30",
+    "value": 6.2,
+    "totalTimeMinutes": 50.2,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2022-03-19",
+    "value": 6.3,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2020-06-05",
+    "value": 4,
+    "totalTimeMinutes": 34.1,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2020-06-02",
+    "value": 6,
+    "totalTimeMinutes": 43.5,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-09-14",
+    "value": 5,
+    "totalTimeMinutes": 38.6,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-10-23",
+    "value": 5.8,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2021-09-15",
+    "value": 4.9,
+    "totalTimeMinutes": 40,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2022-06-15",
+    "value": 5.2,
+    "totalTimeMinutes": 43.9,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2022-04-22",
+    "value": 3.8,
+    "totalTimeMinutes": 29.6,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2022-03-23",
+    "value": 5,
+    "totalTimeMinutes": 41,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-06-02",
+    "value": 6.2,
+    "totalTimeMinutes": 46.3,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2020-01-01",
+    "value": 7.2,
+    "totalTimeMinutes": 55.8,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2022-07-30",
+    "value": 7.7,
+    "totalTimeMinutes": 64.2,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2021-11-05",
+    "value": 5.5,
+    "totalTimeMinutes": 47.3,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2022-04-18",
+    "value": 4.2,
+    "totalTimeMinutes": 35.4,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2022-03-03",
+    "value": 7.8,
+    "totalTimeMinutes": 59.8,
+    "totalDistanceMiles": 7.8
+  },
+  {
+    "day": "2020-03-16",
+    "value": 3.8,
+    "totalTimeMinutes": 29.6,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2020-05-30",
+    "value": 5.3,
+    "totalTimeMinutes": 45,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2022-07-28",
+    "value": 3.7,
+    "totalTimeMinutes": 30.7,
+    "totalDistanceMiles": 3.7
+  },
+  {
+    "day": "2019-11-17",
+    "value": 10.5,
+    "totalTimeMinutes": 80.3,
+    "totalDistanceMiles": 10.5
+  },
+  {
+    "day": "2020-06-28",
+    "value": 4.4,
+    "totalTimeMinutes": 33.6,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-06-20",
+    "value": 6.2,
+    "totalTimeMinutes": 47.6,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2020-07-05",
+    "value": 4.4,
+    "totalTimeMinutes": 33.7,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2019-08-27",
+    "value": 5.2,
+    "totalTimeMinutes": 44.2,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2021-11-27",
+    "value": 6.5,
+    "totalTimeMinutes": 51.4,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2022-09-16",
+    "value": 5,
+    "totalTimeMinutes": 37.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-08-03",
+    "value": 5,
+    "totalTimeMinutes": 37.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-03-21",
+    "value": 5,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-08-29",
+    "value": 5,
+    "totalTimeMinutes": 40.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-01-04",
+    "value": 7.1,
+    "totalTimeMinutes": 55.4,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2019-10-06",
+    "value": 5.7,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-03-25",
+    "value": 5,
+    "totalTimeMinutes": 38.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-05-12",
+    "value": 7,
+    "totalTimeMinutes": 53.4,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-08-21",
+    "value": 5.5,
+    "totalTimeMinutes": 39.2,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2020-07-14",
+    "value": 6.4,
+    "totalTimeMinutes": 45.9,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2020-09-04",
+    "value": 5.7,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-10-28",
+    "value": 4.3,
+    "totalTimeMinutes": 30,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2020-11-20",
+    "value": 5.7,
+    "totalTimeMinutes": 43.9,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-08-04",
+    "value": 5,
+    "totalTimeMinutes": 36.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-02-24",
+    "value": 5,
+    "totalTimeMinutes": 38.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-09-26",
+    "value": 7.4,
+    "totalTimeMinutes": 60.8,
+    "totalDistanceMiles": 7.4
+  },
+  {
+    "day": "2021-09-22",
+    "value": 2.4,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 2.4
+  },
+  {
+    "day": "2022-04-26",
+    "value": 8.4,
+    "totalTimeMinutes": 64.2,
+    "totalDistanceMiles": 8.4
+  },
+  {
+    "day": "2021-01-27",
+    "value": 5.9,
+    "totalTimeMinutes": 41.5,
+    "totalDistanceMiles": 5.9
+  },
+  {
+    "day": "2021-01-30",
+    "value": 8.1,
+    "totalTimeMinutes": 58.6,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2020-01-18",
+    "value": 3.2,
+    "totalTimeMinutes": 23.6,
+    "totalDistanceMiles": 3.2
+  },
+  {
+    "day": "2020-06-29",
+    "value": 6.5,
+    "totalTimeMinutes": 49,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-02-26",
+    "value": 5,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-01-26",
+    "value": 5,
+    "totalTimeMinutes": 40.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-05-08",
+    "value": 6.5,
+    "totalTimeMinutes": 43.9,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-06-10",
+    "value": 3.6,
+    "totalTimeMinutes": 27.4,
+    "totalDistanceMiles": 3.6
+  },
+  {
+    "day": "2020-04-01",
+    "value": 5.3,
+    "totalTimeMinutes": 38.5,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-02-12",
+    "value": 7.4,
+    "totalTimeMinutes": 54.5,
+    "totalDistanceMiles": 7.4
+  },
+  {
+    "day": "2020-02-16",
+    "value": 5.3,
+    "totalTimeMinutes": 37.4,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-12-25",
+    "value": 6,
+    "totalTimeMinutes": 41,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-02-05",
+    "value": 6.5,
+    "totalTimeMinutes": 46.7,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-04-09",
+    "value": 6,
+    "totalTimeMinutes": 43.7,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-09-11",
+    "value": 10.1,
+    "totalTimeMinutes": 78.5,
+    "totalDistanceMiles": 10.1
+  },
+  {
+    "day": "2020-01-08",
+    "value": 6,
+    "totalTimeMinutes": 44.9,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-09-18",
+    "value": 8,
+    "totalTimeMinutes": 62.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-09-21",
+    "value": 7,
+    "totalTimeMinutes": 54.5,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-03-31",
+    "value": 6.7,
+    "totalTimeMinutes": 56.7,
+    "totalDistanceMiles": 6.7
+  },
+  {
+    "day": "2021-05-25",
+    "value": 4.1,
+    "totalTimeMinutes": 27,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2020-02-06",
+    "value": 6,
+    "totalTimeMinutes": 45.7,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-11-08",
+    "value": 7.4,
+    "totalTimeMinutes": 60.8,
+    "totalDistanceMiles": 7.4
+  },
+  {
+    "day": "2022-05-09",
+    "value": 9,
+    "totalTimeMinutes": 70.5,
+    "totalDistanceMiles": 9
+  },
+  {
+    "day": "2022-07-21",
+    "value": 6,
+    "totalTimeMinutes": 47.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-06-07",
+    "value": 1.6,
+    "totalTimeMinutes": 16.5,
+    "totalDistanceMiles": 1.6
+  },
+  {
+    "day": "2022-06-11",
+    "value": 5,
+    "totalTimeMinutes": 40.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-09-06",
+    "value": 4,
+    "totalTimeMinutes": 31.9,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2022-03-01",
+    "value": 8,
+    "totalTimeMinutes": 61.4,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-09-19",
+    "value": 4,
+    "totalTimeMinutes": 30.6,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2020-12-27",
+    "value": 6.9,
+    "totalTimeMinutes": 52.9,
+    "totalDistanceMiles": 6.9
+  },
+  {
+    "day": "2021-03-02",
+    "value": 5,
+    "totalTimeMinutes": 36.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-06-24",
+    "value": 6.5,
+    "totalTimeMinutes": 53,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-06-27",
+    "value": 7,
+    "totalTimeMinutes": 57.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-05-28",
+    "value": 5.2,
+    "totalTimeMinutes": 41.9,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2020-05-24",
+    "value": 6.1,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2022-01-06",
+    "value": 5,
+    "totalTimeMinutes": 37.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-08-06",
+    "value": 4.4,
+    "totalTimeMinutes": 34.4,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2022-06-21",
+    "value": 6.8,
+    "totalTimeMinutes": 49.7,
+    "totalDistanceMiles": 6.8
+  },
+  {
+    "day": "2019-10-09",
+    "value": 6,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-08-22",
+    "value": 5.6,
+    "totalTimeMinutes": 44.4,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2020-11-11",
+    "value": 6.5,
+    "totalTimeMinutes": 45.9,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2020-11-28",
+    "value": 13.2,
+    "totalTimeMinutes": 102.7,
+    "totalDistanceMiles": 13.2
+  },
+  {
+    "day": "2021-11-04",
+    "value": 6.3,
+    "totalTimeMinutes": 48.3,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2022-07-16",
+    "value": 8,
+    "totalTimeMinutes": 67,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-08-28",
+    "value": 7,
+    "totalTimeMinutes": 52.2,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-01-22",
+    "value": 5,
+    "totalTimeMinutes": 35.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-05-20",
+    "value": 5,
+    "totalTimeMinutes": 35.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-08-06",
+    "value": 8,
+    "totalTimeMinutes": 62.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-11-08",
+    "value": 8,
+    "totalTimeMinutes": 66.9,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-01-05",
+    "value": 7,
+    "totalTimeMinutes": 53.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-10-20",
+    "value": 9.4,
+    "totalTimeMinutes": 69,
+    "totalDistanceMiles": 9.4
+  },
+  {
+    "day": "2021-12-02",
+    "value": 5,
+    "totalTimeMinutes": 36.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-06-04",
+    "value": 6.1,
+    "totalTimeMinutes": 47,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2020-07-15",
+    "value": 4.3,
+    "totalTimeMinutes": 34.8,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2021-04-06",
+    "value": 5,
+    "totalTimeMinutes": 34.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-09-24",
+    "value": 5.5,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2020-09-18",
+    "value": 6.4,
+    "totalTimeMinutes": 46.5,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2020-12-11",
+    "value": 5.1,
+    "totalTimeMinutes": 35.3,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2022-03-20",
+    "value": 4.4,
+    "totalTimeMinutes": 35.4,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2022-06-25",
+    "value": 8,
+    "totalTimeMinutes": 60.7,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-02-09",
+    "value": 5,
+    "totalTimeMinutes": 36.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-04-10",
+    "value": 7.2,
+    "totalTimeMinutes": 56.7,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2019-07-02",
+    "value": 5,
+    "totalTimeMinutes": 37,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-02-08",
+    "value": 5.3,
+    "totalTimeMinutes": 39,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-10-06",
+    "value": 4.3,
+    "totalTimeMinutes": 33.2,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2020-08-29",
+    "value": 3.1,
+    "totalTimeMinutes": 24.4,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2020-09-08",
+    "value": 5.1,
+    "totalTimeMinutes": 45.9,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-09-23",
+    "value": 7.2,
+    "totalTimeMinutes": 57.7,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2021-02-13",
+    "value": 8.1,
+    "totalTimeMinutes": 65.4,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-05-04",
+    "value": 5.3,
+    "totalTimeMinutes": 37.5,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-02-05",
+    "value": 5,
+    "totalTimeMinutes": 37.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-02-07",
+    "value": 5.5,
+    "totalTimeMinutes": 41.2,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2020-05-03",
+    "value": 7.8,
+    "totalTimeMinutes": 59.5,
+    "totalDistanceMiles": 7.8
+  },
+  {
+    "day": "2020-10-13",
+    "value": 5.2,
+    "totalTimeMinutes": 43.4,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2020-03-19",
+    "value": 4.1,
+    "totalTimeMinutes": 40.1,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2022-02-09",
+    "value": 2.8,
+    "totalTimeMinutes": 19.9,
+    "totalDistanceMiles": 2.8
+  },
+  {
+    "day": "2022-10-14",
+    "value": 3.7,
+    "totalTimeMinutes": 30.7,
+    "totalDistanceMiles": 3.7
+  },
+  {
+    "day": "2022-05-17",
+    "value": 6.5,
+    "totalTimeMinutes": 52.6,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2022-06-19",
+    "value": 7,
+    "totalTimeMinutes": 51.8,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-09-19",
+    "value": 6.1,
+    "totalTimeMinutes": 47.7,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2020-01-14",
+    "value": 4.4,
+    "totalTimeMinutes": 34.3,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-10-21",
+    "value": 6,
+    "totalTimeMinutes": 45,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-04-05",
+    "value": 3.2,
+    "totalTimeMinutes": 23.4,
+    "totalDistanceMiles": 3.2
+  },
+  {
+    "day": "2021-07-27",
+    "value": 5,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-05-27",
+    "value": 3.8,
+    "totalTimeMinutes": 27.3,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2020-08-14",
+    "value": 5.7,
+    "totalTimeMinutes": 42.5,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-12-08",
+    "value": 6.3,
+    "totalTimeMinutes": 48.2,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2020-07-02",
+    "value": 4.8,
+    "totalTimeMinutes": 40.4,
+    "totalDistanceMiles": 4.8
+  },
+  {
+    "day": "2020-07-29",
+    "value": 5,
+    "totalTimeMinutes": 41.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-06-17",
+    "value": 6,
+    "totalTimeMinutes": 47.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-12-01",
+    "value": 5,
+    "totalTimeMinutes": 37,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-10-28",
+    "value": 7,
+    "totalTimeMinutes": 52.7,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-05-23",
+    "value": 6.4,
+    "totalTimeMinutes": 59.5,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2020-07-31",
+    "value": 5.5,
+    "totalTimeMinutes": 41.7,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2021-10-14",
+    "value": 7.7,
+    "totalTimeMinutes": 59.4,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2019-12-24",
+    "value": 3.6,
+    "totalTimeMinutes": 26.6,
+    "totalDistanceMiles": 3.6
+  },
+  {
+    "day": "2019-12-30",
+    "value": 2.2,
+    "totalTimeMinutes": 26,
+    "totalDistanceMiles": 2.2
+  },
+  {
+    "day": "2020-01-19",
+    "value": 10,
+    "totalTimeMinutes": 76.5,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2019-09-13",
+    "value": 4.4,
+    "totalTimeMinutes": 34.2,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2019-07-25",
+    "value": 4.9,
+    "totalTimeMinutes": 37.8,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2022-02-26",
+    "value": 8.9,
+    "totalTimeMinutes": 70.8,
+    "totalDistanceMiles": 8.9
+  },
+  {
+    "day": "2019-07-21",
+    "value": 9,
+    "totalTimeMinutes": 68.2,
+    "totalDistanceMiles": 9
+  },
+  {
+    "day": "2022-07-12",
+    "value": 5,
+    "totalTimeMinutes": 34.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-01-25",
+    "value": 10,
+    "totalTimeMinutes": 75.2,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2020-07-22",
+    "value": 4.4,
+    "totalTimeMinutes": 34.6,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-03-30",
+    "value": 5,
+    "totalTimeMinutes": 37.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-05-09",
+    "value": 7,
+    "totalTimeMinutes": 55.5,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-03-26",
+    "value": 12.5,
+    "totalTimeMinutes": 99.5,
+    "totalDistanceMiles": 12.5
+  },
+  {
+    "day": "2021-07-03",
+    "value": 7.6,
+    "totalTimeMinutes": 56,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2021-12-22",
+    "value": 5.6,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2021-05-21",
+    "value": 4.4,
+    "totalTimeMinutes": 35.5,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2022-05-31",
+    "value": 5.1,
+    "totalTimeMinutes": 44.4,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-11-12",
+    "value": 8,
+    "totalTimeMinutes": 62.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-08-11",
+    "value": 4.5,
+    "totalTimeMinutes": 34.8,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2021-09-12",
+    "value": 4.9,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2022-01-02",
+    "value": 6,
+    "totalTimeMinutes": 45,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-05-19",
+    "value": 7,
+    "totalTimeMinutes": 53.2,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-11-22",
+    "value": 6,
+    "totalTimeMinutes": 44.3,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-01-29",
+    "value": 6.2,
+    "totalTimeMinutes": 46,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2020-05-15",
+    "value": 5.8,
+    "totalTimeMinutes": 42.2,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2021-03-03",
+    "value": 5.1,
+    "totalTimeMinutes": 36.3,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-06-18",
+    "value": 4.4,
+    "totalTimeMinutes": 36.4,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-12-05",
+    "value": 7.1,
+    "totalTimeMinutes": 61.5,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2021-03-16",
+    "value": 5.5,
+    "totalTimeMinutes": 43.1,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2019-07-07",
+    "value": 3.4,
+    "totalTimeMinutes": 26.3,
+    "totalDistanceMiles": 3.4
+  },
+  {
+    "day": "2019-08-06",
+    "value": 4.8,
+    "totalTimeMinutes": 46.6,
+    "totalDistanceMiles": 4.8
+  },
+  {
+    "day": "2020-08-16",
+    "value": 2.3,
+    "totalTimeMinutes": 16.2,
+    "totalDistanceMiles": 2.3
+  },
+  {
+    "day": "2020-10-31",
+    "value": 8,
+    "totalTimeMinutes": 59,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-01-06",
+    "value": 5.3,
+    "totalTimeMinutes": 39.6,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2021-10-29",
+    "value": 6,
+    "totalTimeMinutes": 48,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-12-21",
+    "value": 10.3,
+    "totalTimeMinutes": 78.2,
+    "totalDistanceMiles": 10.3
+  },
+  {
+    "day": "2020-01-07",
+    "value": 5,
+    "totalTimeMinutes": 38.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-12-28",
+    "value": 4,
+    "totalTimeMinutes": 37.8,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2019-11-10",
+    "value": 9,
+    "totalTimeMinutes": 67,
+    "totalDistanceMiles": 9
+  },
+  {
+    "day": "2021-08-18",
+    "value": 5,
+    "totalTimeMinutes": 34.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-03-27",
+    "value": 5.6,
+    "totalTimeMinutes": 44,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2021-12-03",
+    "value": 5.6,
+    "totalTimeMinutes": 48,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2020-05-08",
+    "value": 5.4,
+    "totalTimeMinutes": 39.5,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2020-07-11",
+    "value": 6.1,
+    "totalTimeMinutes": 45.7,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2022-06-12",
+    "value": 6,
+    "totalTimeMinutes": 49.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-10-10",
+    "value": 3.2,
+    "totalTimeMinutes": 23.5,
+    "totalDistanceMiles": 3.2
+  },
+  {
+    "day": "2020-10-12",
+    "value": 8,
+    "totalTimeMinutes": 66.2,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2022-04-01",
+    "value": 6,
+    "totalTimeMinutes": 45,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-07-10",
+    "value": 6,
+    "totalTimeMinutes": 43.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-12-19",
+    "value": 5.4,
+    "totalTimeMinutes": 43.5,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2019-12-04",
+    "value": 6.6,
+    "totalTimeMinutes": 52.8,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2021-05-07",
+    "value": 5.3,
+    "totalTimeMinutes": 45.7,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-04-03",
+    "value": 3.5,
+    "totalTimeMinutes": 35,
+    "totalDistanceMiles": 3.5
+  },
+  {
+    "day": "2021-08-10",
+    "value": 5,
+    "totalTimeMinutes": 41.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-07-17",
+    "value": 4.5,
+    "totalTimeMinutes": 36.4,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2020-11-08",
+    "value": 5,
+    "totalTimeMinutes": 43.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-08-18",
+    "value": 5.1,
+    "totalTimeMinutes": 36.8,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2019-12-10",
+    "value": 5,
+    "totalTimeMinutes": 43.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-05-17",
+    "value": 8,
+    "totalTimeMinutes": 60,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-06-30",
+    "value": 2.9,
+    "totalTimeMinutes": 22.7,
+    "totalDistanceMiles": 2.9
+  },
+  {
+    "day": "2019-11-03",
+    "value": 9.3,
+    "totalTimeMinutes": 72,
+    "totalDistanceMiles": 9.3
+  },
+  {
+    "day": "2021-03-13",
+    "value": 10,
+    "totalTimeMinutes": 82.2,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2022-01-24",
+    "value": 5,
+    "totalTimeMinutes": 39.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-10-08",
+    "value": 10.4,
+    "totalTimeMinutes": 83,
+    "totalDistanceMiles": 10.4
+  },
+  {
+    "day": "2022-05-06",
+    "value": 3,
+    "totalTimeMinutes": 23.4,
+    "totalDistanceMiles": 3
+  },
+  {
+    "day": "2020-03-23",
+    "value": 4.2,
+    "totalTimeMinutes": 34.9,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2019-12-29",
+    "value": 7.4,
+    "totalTimeMinutes": 57,
+    "totalDistanceMiles": 7.4
+  },
+  {
+    "day": "2021-01-05",
+    "value": 5,
+    "totalTimeMinutes": 36.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-08-06",
+    "value": 6,
+    "totalTimeMinutes": 42.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-08-27",
+    "value": 4.2,
+    "totalTimeMinutes": 36.1,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2021-01-29",
+    "value": 5.1,
+    "totalTimeMinutes": 42.5,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2020-11-13",
+    "value": 5.5,
+    "totalTimeMinutes": 40.9,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2022-08-11",
+    "value": 5,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-08-20",
+    "value": 5.3,
+    "totalTimeMinutes": 37.6,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-08-12",
+    "value": 5,
+    "totalTimeMinutes": 41.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-09-10",
+    "value": 5,
+    "totalTimeMinutes": 33,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-01-01",
+    "value": 5,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-01-19",
+    "value": 6,
+    "totalTimeMinutes": 45.3,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-05-06",
+    "value": 4,
+    "totalTimeMinutes": 30.4,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2020-07-24",
+    "value": 6.3,
+    "totalTimeMinutes": 46,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2020-09-11",
+    "value": 4.3,
+    "totalTimeMinutes": 35.2,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2020-11-04",
+    "value": 4.3,
+    "totalTimeMinutes": 32.4,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2020-11-27",
+    "value": 7.5,
+    "totalTimeMinutes": 59.7,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2021-04-23",
+    "value": 5,
+    "totalTimeMinutes": 37.7,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-08-28",
+    "value": 7,
+    "totalTimeMinutes": 59,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-04-19",
+    "value": 6.4,
+    "totalTimeMinutes": 50.8,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2019-11-27",
+    "value": 8,
+    "totalTimeMinutes": 66.6,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-10-06",
+    "value": 4.1,
+    "totalTimeMinutes": 29.4,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2020-09-13",
+    "value": 2.2,
+    "totalTimeMinutes": 37.2,
+    "totalDistanceMiles": 2.2
+  },
+  {
+    "day": "2020-04-11",
+    "value": 2.3,
+    "totalTimeMinutes": 39.9,
+    "totalDistanceMiles": 2.3
+  },
+  {
+    "day": "2021-05-05",
+    "value": 5.8,
+    "totalTimeMinutes": 46.3,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2021-02-21",
+    "value": 9.2,
+    "totalTimeMinutes": 69.4,
+    "totalDistanceMiles": 9.2
+  },
+  {
+    "day": "2021-04-03",
+    "value": 9.5,
+    "totalTimeMinutes": 73,
+    "totalDistanceMiles": 9.5
+  },
+  {
+    "day": "2019-07-03",
+    "value": 4.4,
+    "totalTimeMinutes": 43.5,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-12-22",
+    "value": 6.7,
+    "totalTimeMinutes": 51.7,
+    "totalDistanceMiles": 6.7
+  },
+  {
+    "day": "2020-06-12",
+    "value": 4.8,
+    "totalTimeMinutes": 41.6,
+    "totalDistanceMiles": 4.8
+  },
+  {
+    "day": "2021-04-13",
+    "value": 5.2,
+    "totalTimeMinutes": 42.8,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2021-05-01",
+    "value": 5.7,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2019-08-04",
+    "value": 8.1,
+    "totalTimeMinutes": 60.2,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2020-10-16",
+    "value": 4.2,
+    "totalTimeMinutes": 36.9,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2021-06-09",
+    "value": 5,
+    "totalTimeMinutes": 34.2,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-06-11",
+    "value": 5,
+    "totalTimeMinutes": 39.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-06-15",
+    "value": 4.1,
+    "totalTimeMinutes": 29.4,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2022-08-28",
+    "value": 6.4,
+    "totalTimeMinutes": 51.3,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-06-16",
+    "value": 4.3,
+    "totalTimeMinutes": 35,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2022-01-18",
+    "value": 7.7,
+    "totalTimeMinutes": 57.8,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2022-06-18",
+    "value": 6,
+    "totalTimeMinutes": 43.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-08-30",
+    "value": 5.2,
+    "totalTimeMinutes": 43.4,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2021-07-24",
+    "value": 8,
+    "totalTimeMinutes": 64.6,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-12-07",
+    "value": 7.1,
+    "totalTimeMinutes": 55.6,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2021-07-31",
+    "value": 6.7,
+    "totalTimeMinutes": 52.8,
+    "totalDistanceMiles": 6.7
+  },
+  {
+    "day": "2021-05-11",
+    "value": 7,
+    "totalTimeMinutes": 52.8,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-06-25",
+    "value": 5,
+    "totalTimeMinutes": 41,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-07-17",
+    "value": 8.1,
+    "totalTimeMinutes": 57.7,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-11-02",
+    "value": 9,
+    "totalTimeMinutes": 70.5,
+    "totalDistanceMiles": 9
+  },
+  {
+    "day": "2020-06-16",
+    "value": 5,
+    "totalTimeMinutes": 35.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-07-24",
+    "value": 4.2,
+    "totalTimeMinutes": 39,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2022-09-27",
+    "value": 7.2,
+    "totalTimeMinutes": 58.8,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2021-10-26",
+    "value": 6.3,
+    "totalTimeMinutes": 47,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2020-12-12",
+    "value": 7.2,
+    "totalTimeMinutes": 53.6,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2021-07-13",
+    "value": 4.4,
+    "totalTimeMinutes": 33.7,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-09-02",
+    "value": 4.4,
+    "totalTimeMinutes": 32.6,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2022-08-04",
+    "value": 6,
+    "totalTimeMinutes": 46.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-06-02",
+    "value": 4.1,
+    "totalTimeMinutes": 31.7,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2022-09-26",
+    "value": 7,
+    "totalTimeMinutes": 54.6,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-01-22",
+    "value": 6.1,
+    "totalTimeMinutes": 48.1,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2021-03-07",
+    "value": 6.1,
+    "totalTimeMinutes": 46.3,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2019-09-27",
+    "value": 5,
+    "totalTimeMinutes": 40.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-07-07",
+    "value": 6,
+    "totalTimeMinutes": 43.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-04-06",
+    "value": 7.2,
+    "totalTimeMinutes": 57.1,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2022-01-25",
+    "value": 6.1,
+    "totalTimeMinutes": 48.1,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2021-01-14",
+    "value": 6.3,
+    "totalTimeMinutes": 49.1,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-03-24",
+    "value": 5,
+    "totalTimeMinutes": 37,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-05-28",
+    "value": 10.3,
+    "totalTimeMinutes": 76.2,
+    "totalDistanceMiles": 10.3
+  },
+  {
+    "day": "2022-07-20",
+    "value": 5,
+    "totalTimeMinutes": 36.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-09-01",
+    "value": 6.3,
+    "totalTimeMinutes": 46,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-07-28",
+    "value": 5,
+    "totalTimeMinutes": 33.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-08-16",
+    "value": 6,
+    "totalTimeMinutes": 49.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-05-26",
+    "value": 4.4,
+    "totalTimeMinutes": 34.7,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-05-16",
+    "value": 5,
+    "totalTimeMinutes": 43,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-08-30",
+    "value": 6,
+    "totalTimeMinutes": 43.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-09-18",
+    "value": 10.3,
+    "totalTimeMinutes": 84.1,
+    "totalDistanceMiles": 10.3
+  },
+  {
+    "day": "2021-09-29",
+    "value": 5,
+    "totalTimeMinutes": 38.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-12-10",
+    "value": 5,
+    "totalTimeMinutes": 43.6,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-04-16",
+    "value": 4.7,
+    "totalTimeMinutes": 33.4,
+    "totalDistanceMiles": 4.7
+  },
+  {
+    "day": "2022-06-10",
+    "value": 3,
+    "totalTimeMinutes": 26,
+    "totalDistanceMiles": 3
+  },
+  {
+    "day": "2021-11-01",
+    "value": 8,
+    "totalTimeMinutes": 59,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-07-12",
+    "value": 3.8,
+    "totalTimeMinutes": 28.1,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2022-01-13",
+    "value": 6.6,
+    "totalTimeMinutes": 51.3,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2022-02-01",
+    "value": 5,
+    "totalTimeMinutes": 38.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-05-10",
+    "value": 5.1,
+    "totalTimeMinutes": 39.4,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2019-07-16",
+    "value": 4.6,
+    "totalTimeMinutes": 39.5,
+    "totalDistanceMiles": 4.6
+  },
+  {
+    "day": "2020-07-28",
+    "value": 6,
+    "totalTimeMinutes": 45.2,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-11-18",
+    "value": 7.5,
+    "totalTimeMinutes": 57.4,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2019-12-17",
+    "value": 5.7,
+    "totalTimeMinutes": 44.3,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-04-29",
+    "value": 3.9,
+    "totalTimeMinutes": 30.3,
+    "totalDistanceMiles": 3.9
+  },
+  {
+    "day": "2022-05-01",
+    "value": 6,
+    "totalTimeMinutes": 48,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-08-23",
+    "value": 6.4,
+    "totalTimeMinutes": 48.1,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2020-11-18",
+    "value": 4.4,
+    "totalTimeMinutes": 32.5,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-01-13",
+    "value": 4.6,
+    "totalTimeMinutes": 41.8,
+    "totalDistanceMiles": 4.6
+  },
+  {
+    "day": "2021-01-17",
+    "value": 5.1,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2020-01-04",
+    "value": 6.2,
+    "totalTimeMinutes": 45.8,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-03-05",
+    "value": 5.3,
+    "totalTimeMinutes": 37.3,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2020-05-09",
+    "value": 13.1,
+    "totalTimeMinutes": 102,
+    "totalDistanceMiles": 13.1
+  },
+  {
+    "day": "2021-02-17",
+    "value": 5,
+    "totalTimeMinutes": 33,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-10-01",
+    "value": 6,
+    "totalTimeMinutes": 45.3,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-03-21",
+    "value": 3.4,
+    "totalTimeMinutes": 27.6,
+    "totalDistanceMiles": 3.4
+  },
+  {
+    "day": "2022-10-10",
+    "value": 6,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-01-23",
+    "value": 4,
+    "totalTimeMinutes": 31.2,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2021-12-01",
+    "value": 4,
+    "totalTimeMinutes": 29.9,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2020-03-29",
+    "value": 4.5,
+    "totalTimeMinutes": 36.4,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2019-10-02",
+    "value": 5.1,
+    "totalTimeMinutes": 35.3,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2019-12-31",
+    "value": 5,
+    "totalTimeMinutes": 38,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-09-05",
+    "value": 6.5,
+    "totalTimeMinutes": 47.1,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2019-11-22",
+    "value": 4.2,
+    "totalTimeMinutes": 34.6,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2020-12-23",
+    "value": 5.4,
+    "totalTimeMinutes": 40.3,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2020-08-25",
+    "value": 5,
+    "totalTimeMinutes": 34.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-02-10",
+    "value": 5.5,
+    "totalTimeMinutes": 39.8,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2021-02-20",
+    "value": 6.2,
+    "totalTimeMinutes": 46.6,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2020-04-09",
+    "value": 5.5,
+    "totalTimeMinutes": 40.4,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2021-10-25",
+    "value": 6.2,
+    "totalTimeMinutes": 49.1,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-08-15",
+    "value": 7,
+    "totalTimeMinutes": 55.4,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-03-15",
+    "value": 7,
+    "totalTimeMinutes": 51.8,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-04-24",
+    "value": 6,
+    "totalTimeMinutes": 44.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-12-03",
+    "value": 6,
+    "totalTimeMinutes": 46.9,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-12-10",
+    "value": 4.2,
+    "totalTimeMinutes": 31.5,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2020-09-19",
+    "value": 5.6,
+    "totalTimeMinutes": 43.6,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2022-05-05",
+    "value": 7,
+    "totalTimeMinutes": 53.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-08-26",
+    "value": 5.1,
+    "totalTimeMinutes": 41.6,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-01-19",
+    "value": 5.2,
+    "totalTimeMinutes": 39.6,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2022-01-08",
+    "value": 6,
+    "totalTimeMinutes": 50.5,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-07-10",
+    "value": 4.4,
+    "totalTimeMinutes": 33.5,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2022-05-24",
+    "value": 7.2,
+    "totalTimeMinutes": 54.8,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2022-10-17",
+    "value": 7,
+    "totalTimeMinutes": 55,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-10-23",
+    "value": 5.8,
+    "totalTimeMinutes": 43.2,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2019-12-11",
+    "value": 5.6,
+    "totalTimeMinutes": 43.5,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2019-12-15",
+    "value": 8.4,
+    "totalTimeMinutes": 62.9,
+    "totalDistanceMiles": 8.4
+  },
+  {
+    "day": "2020-07-18",
+    "value": 6.4,
+    "totalTimeMinutes": 49.2,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2022-03-05",
+    "value": 8.3,
+    "totalTimeMinutes": 64.8,
+    "totalDistanceMiles": 8.3
+  },
+  {
+    "day": "2019-07-30",
+    "value": 5.5,
+    "totalTimeMinutes": 51.7,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2022-07-15",
+    "value": 7,
+    "totalTimeMinutes": 56,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-05-16",
+    "value": 5,
+    "totalTimeMinutes": 40.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-04-06",
+    "value": 5.4,
+    "totalTimeMinutes": 36.1,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2020-10-09",
+    "value": 5.1,
+    "totalTimeMinutes": 34.9,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2022-08-08",
+    "value": 7,
+    "totalTimeMinutes": 54.2,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-02-12",
+    "value": 9.8,
+    "totalTimeMinutes": 72,
+    "totalDistanceMiles": 9.8
+  },
+  {
+    "day": "2021-03-12",
+    "value": 6.6,
+    "totalTimeMinutes": 55,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2021-12-05",
+    "value": 7,
+    "totalTimeMinutes": 50.4,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-05-22",
+    "value": 5.4,
+    "totalTimeMinutes": 44.6,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2022-05-20",
+    "value": 9.9,
+    "totalTimeMinutes": 82.7,
+    "totalDistanceMiles": 9.9
+  },
+  {
+    "day": "2022-09-06",
+    "value": 5,
+    "totalTimeMinutes": 37.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-08-09",
+    "value": 5,
+    "totalTimeMinutes": 37,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-09-04",
+    "value": 8,
+    "totalTimeMinutes": 65.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-12-26",
+    "value": 3.1,
+    "totalTimeMinutes": 30.4,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2020-05-02",
+    "value": 5,
+    "totalTimeMinutes": 37.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-05-22",
+    "value": 7,
+    "totalTimeMinutes": 57.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-02-21",
+    "value": 6.3,
+    "totalTimeMinutes": 50.8,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2019-11-24",
+    "value": 7.6,
+    "totalTimeMinutes": 60.2,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2020-10-24",
+    "value": 6,
+    "totalTimeMinutes": 43.9,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-09-02",
+    "value": 8.1,
+    "totalTimeMinutes": 59.9,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-11-23",
+    "value": 6,
+    "totalTimeMinutes": 44.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-07-27",
+    "value": 4.5,
+    "totalTimeMinutes": 32.4,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2020-10-02",
+    "value": 6,
+    "totalTimeMinutes": 45.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-07-08",
+    "value": 4.3,
+    "totalTimeMinutes": 32.8,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2022-08-22",
+    "value": 6.2,
+    "totalTimeMinutes": 48.6,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2021-10-02",
+    "value": 8,
+    "totalTimeMinutes": 65.5,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-06-21",
+    "value": 6.5,
+    "totalTimeMinutes": 51.1,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2020-04-21",
+    "value": 6,
+    "totalTimeMinutes": 42.7,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-04-18",
+    "value": 7,
+    "totalTimeMinutes": 54.5,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-11-03",
+    "value": 5,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-02-24",
+    "value": 5.4,
+    "totalTimeMinutes": 39.4,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2021-06-23",
+    "value": 5,
+    "totalTimeMinutes": 38.6,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-08-17",
+    "value": 3.8,
+    "totalTimeMinutes": 33,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2021-02-28",
+    "value": 7,
+    "totalTimeMinutes": 56.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-02-14",
+    "value": 6.4,
+    "totalTimeMinutes": 46.5,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-09-01",
+    "value": 5,
+    "totalTimeMinutes": 35.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-09-12",
+    "value": 5,
+    "totalTimeMinutes": 36.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-05-05",
+    "value": 6,
+    "totalTimeMinutes": 47.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-06-26",
+    "value": 6.3,
+    "totalTimeMinutes": 46.6,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-09-26",
+    "value": 7,
+    "totalTimeMinutes": 54.7,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-10-30",
+    "value": 5.1,
+    "totalTimeMinutes": 36.5,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2020-11-25",
+    "value": 6,
+    "totalTimeMinutes": 45.2,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-05-13",
+    "value": 3.8,
+    "totalTimeMinutes": 28.3,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2022-08-20",
+    "value": 8,
+    "totalTimeMinutes": 64.5,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-04-14",
+    "value": 5,
+    "totalTimeMinutes": 36.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-10-16",
+    "value": 8,
+    "totalTimeMinutes": 65.8,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2021-11-24",
+    "value": 10.1,
+    "totalTimeMinutes": 80.4,
+    "totalDistanceMiles": 10.1
+  },
+  {
+    "day": "2022-04-23",
+    "value": 12,
+    "totalTimeMinutes": 97.7,
+    "totalDistanceMiles": 12
+  },
+  {
+    "day": "2021-07-25",
+    "value": 5.8,
+    "totalTimeMinutes": 47.8,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2019-08-11",
+    "value": 7.4,
+    "totalTimeMinutes": 58.1,
+    "totalDistanceMiles": 7.4
+  },
+  {
+    "day": "2019-08-16",
+    "value": 5.5,
+    "totalTimeMinutes": 41.2,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2020-06-17",
+    "value": 5,
+    "totalTimeMinutes": 37.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-07-28",
+    "value": 6.7,
+    "totalTimeMinutes": 52.2,
+    "totalDistanceMiles": 6.7
+  },
+  {
+    "day": "2020-11-21",
+    "value": 6.9,
+    "totalTimeMinutes": 51.4,
+    "totalDistanceMiles": 6.9
+  },
+  {
+    "day": "2019-09-22",
+    "value": 10,
+    "totalTimeMinutes": 75,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2021-11-13",
+    "value": 10.5,
+    "totalTimeMinutes": 79.6,
+    "totalDistanceMiles": 10.5
+  },
+  {
+    "day": "2022-05-12",
+    "value": 8,
+    "totalTimeMinutes": 59.5,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-11-14",
+    "value": 8.1,
+    "totalTimeMinutes": 59.7,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-01-02",
+    "value": 10.5,
+    "totalTimeMinutes": 76,
+    "totalDistanceMiles": 10.5
+  },
+  {
+    "day": "2020-04-26",
+    "value": 8,
+    "totalTimeMinutes": 65.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2022-09-15",
+    "value": 7.2,
+    "totalTimeMinutes": 56.2,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2020-09-22",
+    "value": 4.7,
+    "totalTimeMinutes": 35.5,
+    "totalDistanceMiles": 4.7
+  },
+  {
+    "day": "2021-07-26",
+    "value": 3.1,
+    "totalTimeMinutes": 24.9,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2021-02-11",
+    "value": 5.1,
+    "totalTimeMinutes": 37.6,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-05-29",
+    "value": 8.4,
+    "totalTimeMinutes": 61.6,
+    "totalDistanceMiles": 8.4
+  },
+  {
+    "day": "2021-06-30",
+    "value": 5,
+    "totalTimeMinutes": 36.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-08-18",
+    "value": 7,
+    "totalTimeMinutes": 52.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-05-23",
+    "value": 7,
+    "totalTimeMinutes": 53.1,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-08-14",
+    "value": 5,
+    "totalTimeMinutes": 37.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-08-11",
+    "value": 5.4,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2021-03-23",
+    "value": 6,
+    "totalTimeMinutes": 51.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-08-21",
+    "value": 5.2,
+    "totalTimeMinutes": 39.2,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2020-10-27",
+    "value": 6,
+    "totalTimeMinutes": 43.2,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-04-08",
+    "value": 3.8,
+    "totalTimeMinutes": 28.2,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2021-01-08",
+    "value": 3.1,
+    "totalTimeMinutes": 26.4,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2022-09-23",
+    "value": 5,
+    "totalTimeMinutes": 39.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-09-10",
+    "value": 5.4,
+    "totalTimeMinutes": 39,
+    "totalDistanceMiles": 5.4
+  },
+  {
+    "day": "2021-12-06",
+    "value": 5,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-04-29",
+    "value": 6,
+    "totalTimeMinutes": 47.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-11-11",
+    "value": 2.2,
+    "totalTimeMinutes": 27.5,
+    "totalDistanceMiles": 2.2
+  },
+  {
+    "day": "2021-02-23",
+    "value": 5,
+    "totalTimeMinutes": 33.9,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-09-16",
+    "value": 5.1,
+    "totalTimeMinutes": 38.6,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-04-10",
+    "value": 7.5,
+    "totalTimeMinutes": 63.4,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2021-09-20",
+    "value": 7.6,
+    "totalTimeMinutes": 58.4,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2020-02-01",
+    "value": 5.2,
+    "totalTimeMinutes": 40.6,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2022-07-27",
+    "value": 6,
+    "totalTimeMinutes": 46.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-10-07",
+    "value": 6,
+    "totalTimeMinutes": 47,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-10-04",
+    "value": 6,
+    "totalTimeMinutes": 43.4,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-01-03",
+    "value": 4.6,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 4.6
+  },
+  {
+    "day": "2021-05-31",
+    "value": 6,
+    "totalTimeMinutes": 49.9,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-09-08",
+    "value": 5,
+    "totalTimeMinutes": 38.3,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-06-04",
+    "value": 11,
+    "totalTimeMinutes": 88,
+    "totalDistanceMiles": 11
+  },
+  {
+    "day": "2020-01-12",
+    "value": 8.1,
+    "totalTimeMinutes": 59.9,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2020-02-02",
+    "value": 6.1,
+    "totalTimeMinutes": 46.8,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2021-08-14",
+    "value": 7,
+    "totalTimeMinutes": 56.2,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-12-09",
+    "value": 8,
+    "totalTimeMinutes": 65,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-11-04",
+    "value": 3.1,
+    "totalTimeMinutes": 35.4,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2019-07-31",
+    "value": 5,
+    "totalTimeMinutes": 37.8,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-03-17",
+    "value": 6,
+    "totalTimeMinutes": 46.8,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-10-13",
+    "value": 7.6,
+    "totalTimeMinutes": 55.2,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2021-07-05",
+    "value": 6,
+    "totalTimeMinutes": 46.3,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-02-10",
+    "value": 7.1,
+    "totalTimeMinutes": 55.7,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2022-06-30",
+    "value": 7,
+    "totalTimeMinutes": 57.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-09-05",
+    "value": 7.2,
+    "totalTimeMinutes": 54.8,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2021-04-21",
+    "value": 5,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-09-17",
+    "value": 7.2,
+    "totalTimeMinutes": 57.1,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2022-07-14",
+    "value": 5,
+    "totalTimeMinutes": 38.1,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-03-11",
+    "value": 4.4,
+    "totalTimeMinutes": 35.1,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2022-03-28",
+    "value": 6,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-09-02",
+    "value": 4,
+    "totalTimeMinutes": 34.5,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2019-11-01",
+    "value": 7,
+    "totalTimeMinutes": 52.7,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-04-18",
+    "value": 6.2,
+    "totalTimeMinutes": 46.1,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2020-06-11",
+    "value": 3.4,
+    "totalTimeMinutes": 30.9,
+    "totalDistanceMiles": 3.4
+  },
+  {
+    "day": "2022-08-02",
+    "value": 7,
+    "totalTimeMinutes": 57.6,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-07-08",
+    "value": 3.8,
+    "totalTimeMinutes": 32.7,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2019-07-05",
+    "value": 4.5,
+    "totalTimeMinutes": 33.3,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2020-08-18",
+    "value": 6,
+    "totalTimeMinutes": 40,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2020-10-18",
+    "value": 6.3,
+    "totalTimeMinutes": 50.6,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-03-28",
+    "value": 6.4,
+    "totalTimeMinutes": 48.2,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-07-11",
+    "value": 7,
+    "totalTimeMinutes": 53.8,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-02-16",
+    "value": 3.4,
+    "totalTimeMinutes": 24.4,
+    "totalDistanceMiles": 3.4
+  },
+  {
+    "day": "2020-10-04",
+    "value": 8,
+    "totalTimeMinutes": 63.6,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-09-06",
+    "value": 5.6,
+    "totalTimeMinutes": 43.2,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2021-01-03",
+    "value": 7.1,
+    "totalTimeMinutes": 57.2,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2021-09-04",
+    "value": 7.6,
+    "totalTimeMinutes": 56.3,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2022-08-19",
+    "value": 3.8,
+    "totalTimeMinutes": 30.3,
+    "totalDistanceMiles": 3.8
+  },
+  {
+    "day": "2020-02-18",
+    "value": 3.2,
+    "totalTimeMinutes": 24,
+    "totalDistanceMiles": 3.2
+  },
+  {
+    "day": "2021-04-25",
+    "value": 9,
+    "totalTimeMinutes": 72.6,
+    "totalDistanceMiles": 9
+  },
+  {
+    "day": "2020-07-21",
+    "value": 5.7,
+    "totalTimeMinutes": 39.9,
+    "totalDistanceMiles": 5.7
+  },
+  {
+    "day": "2020-05-21",
+    "value": 4.5,
+    "totalTimeMinutes": 34.4,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2020-09-20",
+    "value": 8,
+    "totalTimeMinutes": 62.8,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2022-07-04",
+    "value": 7.3,
+    "totalTimeMinutes": 62.3,
+    "totalDistanceMiles": 7.3
+  },
+  {
+    "day": "2021-10-10",
+    "value": 6.3,
+    "totalTimeMinutes": 50.5,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2022-04-09",
+    "value": 13.1,
+    "totalTimeMinutes": 93.6,
+    "totalDistanceMiles": 13.1
+  },
+  {
+    "day": "2019-07-12",
+    "value": 4,
+    "totalTimeMinutes": 28.4,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2019-08-07",
+    "value": 3.7,
+    "totalTimeMinutes": 29.2,
+    "totalDistanceMiles": 3.7
+  },
+  {
+    "day": "2020-12-30",
+    "value": 5,
+    "totalTimeMinutes": 36.6,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-09-01",
+    "value": 6.3,
+    "totalTimeMinutes": 46.7,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-02-19",
+    "value": 5.6,
+    "totalTimeMinutes": 41,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2021-08-20",
+    "value": 5,
+    "totalTimeMinutes": 40.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2020-01-28",
+    "value": 5.5,
+    "totalTimeMinutes": 42.9,
+    "totalDistanceMiles": 5.5
+  },
+  {
+    "day": "2020-10-20",
+    "value": 5.1,
+    "totalTimeMinutes": 38.1,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-06-29",
+    "value": 4.2,
+    "totalTimeMinutes": 30.9,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2021-01-01",
+    "value": 5.1,
+    "totalTimeMinutes": 36.6,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-07-02",
+    "value": 6,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-07-02",
+    "value": 8,
+    "totalTimeMinutes": 70.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-10-17",
+    "value": 3,
+    "totalTimeMinutes": 38.6,
+    "totalDistanceMiles": 3
+  },
+  {
+    "day": "2020-05-01",
+    "value": 8,
+    "totalTimeMinutes": 58.8,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-07-26",
+    "value": 6.8,
+    "totalTimeMinutes": 54.1,
+    "totalDistanceMiles": 6.8
+  },
+  {
+    "day": "2022-02-05",
+    "value": 10,
+    "totalTimeMinutes": 81,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2021-01-31",
+    "value": 5,
+    "totalTimeMinutes": 35.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-02-04",
+    "value": 4,
+    "totalTimeMinutes": 29.4,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2019-11-15",
+    "value": 6.6,
+    "totalTimeMinutes": 51.7,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2021-08-25",
+    "value": 6,
+    "totalTimeMinutes": 47.9,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-01-21",
+    "value": 6.2,
+    "totalTimeMinutes": 47.4,
+    "totalDistanceMiles": 6.2
+  },
+  {
+    "day": "2022-03-25",
+    "value": 7.7,
+    "totalTimeMinutes": 57.5,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2022-04-28",
+    "value": 7.2,
+    "totalTimeMinutes": 54.7,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2020-12-15",
+    "value": 5.1,
+    "totalTimeMinutes": 35.9,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-02-04",
+    "value": 5.8,
+    "totalTimeMinutes": 42.1,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2020-07-19",
+    "value": 4.1,
+    "totalTimeMinutes": 36,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2021-04-11",
+    "value": 5.1,
+    "totalTimeMinutes": 38.6,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2022-07-07",
+    "value": 6,
+    "totalTimeMinutes": 46.2,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-04-04",
+    "value": 7,
+    "totalTimeMinutes": 55.6,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-05-10",
+    "value": 3.1,
+    "totalTimeMinutes": 33.8,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2019-09-07",
+    "value": 4.5,
+    "totalTimeMinutes": 38,
+    "totalDistanceMiles": 4.5
+  },
+  {
+    "day": "2019-09-15",
+    "value": 8.5,
+    "totalTimeMinutes": 66,
+    "totalDistanceMiles": 8.5
+  },
+  {
+    "day": "2020-08-09",
+    "value": 4.2,
+    "totalTimeMinutes": 36.3,
+    "totalDistanceMiles": 4.2
+  },
+  {
+    "day": "2021-01-23",
+    "value": 7.3,
+    "totalTimeMinutes": 59,
+    "totalDistanceMiles": 7.3
+  },
+  {
+    "day": "2021-06-06",
+    "value": 7,
+    "totalTimeMinutes": 59.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-09-18",
+    "value": 4.4,
+    "totalTimeMinutes": 36.8,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-12-18",
+    "value": 4.1,
+    "totalTimeMinutes": 40.7,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2019-12-05",
+    "value": 4.8,
+    "totalTimeMinutes": 35,
+    "totalDistanceMiles": 4.8
+  },
+  {
+    "day": "2022-10-15",
+    "value": 10,
+    "totalTimeMinutes": 78.4,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2020-02-11",
+    "value": 3.1,
+    "totalTimeMinutes": 22.4,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2020-03-20",
+    "value": 4,
+    "totalTimeMinutes": 33.1,
+    "totalDistanceMiles": 4
+  },
+  {
+    "day": "2022-01-27",
+    "value": 6.1,
+    "totalTimeMinutes": 41,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2021-10-08",
+    "value": 5.3,
+    "totalTimeMinutes": 39.1,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2019-10-29",
+    "value": 4.3,
+    "totalTimeMinutes": 35.8,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2022-01-28",
+    "value": 7.6,
+    "totalTimeMinutes": 56.3,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2022-09-25",
+    "value": 11.1,
+    "totalTimeMinutes": 83.7,
+    "totalDistanceMiles": 11.1
+  },
+  {
+    "day": "2022-03-22",
+    "value": 7.6,
+    "totalTimeMinutes": 57.9,
+    "totalDistanceMiles": 7.6
+  },
+  {
+    "day": "2022-07-18",
+    "value": 6,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-09-29",
+    "value": 10.1,
+    "totalTimeMinutes": 81.7,
+    "totalDistanceMiles": 10.1
+  },
+  {
+    "day": "2022-07-29",
+    "value": 6.5,
+    "totalTimeMinutes": 48.2,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2019-10-31",
+    "value": 6.3,
+    "totalTimeMinutes": 52.5,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2019-11-05",
+    "value": 6,
+    "totalTimeMinutes": 48.7,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2021-12-11",
+    "value": 9,
+    "totalTimeMinutes": 69.3,
+    "totalDistanceMiles": 9
+  },
+  {
+    "day": "2022-04-04",
+    "value": 7,
+    "totalTimeMinutes": 52.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2020-01-26",
+    "value": 4.1,
+    "totalTimeMinutes": 34.8,
+    "totalDistanceMiles": 4.1
+  },
+  {
+    "day": "2020-01-15",
+    "value": 8,
+    "totalTimeMinutes": 55.1,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2020-05-13",
+    "value": 5.3,
+    "totalTimeMinutes": 40.3,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2022-07-05",
+    "value": 5.2,
+    "totalTimeMinutes": 47.6,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2021-08-05",
+    "value": 5,
+    "totalTimeMinutes": 40,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-03-04",
+    "value": 3.9,
+    "totalTimeMinutes": 28.2,
+    "totalDistanceMiles": 3.9
+  },
+  {
+    "day": "2021-11-15",
+    "value": 6.6,
+    "totalTimeMinutes": 51.9,
+    "totalDistanceMiles": 6.6
+  },
+  {
+    "day": "2020-09-12",
+    "value": 7.7,
+    "totalTimeMinutes": 58.2,
+    "totalDistanceMiles": 7.7
+  },
+  {
+    "day": "2020-10-25",
+    "value": 7.1,
+    "totalTimeMinutes": 53.7,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2022-10-13",
+    "value": 6.1,
+    "totalTimeMinutes": 46.9,
+    "totalDistanceMiles": 6.1
+  },
+  {
+    "day": "2019-10-16",
+    "value": 5.6,
+    "totalTimeMinutes": 43.7,
+    "totalDistanceMiles": 5.6
+  },
+  {
+    "day": "2022-08-25",
+    "value": 8,
+    "totalTimeMinutes": 62,
+    "totalDistanceMiles": 8
+  },
+  {
+    "day": "2019-11-07",
+    "value": 4.4,
+    "totalTimeMinutes": 37.8,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2020-03-31",
+    "value": 5.3,
+    "totalTimeMinutes": 41.2,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2022-09-20",
+    "value": 6.8,
+    "totalTimeMinutes": 52.1,
+    "totalDistanceMiles": 6.8
+  },
+  {
+    "day": "2020-05-23",
+    "value": 6.4,
+    "totalTimeMinutes": 54.7,
+    "totalDistanceMiles": 6.4
+  },
+  {
+    "day": "2021-01-20",
+    "value": 4.3,
+    "totalTimeMinutes": 33,
+    "totalDistanceMiles": 4.3
+  },
+  {
+    "day": "2021-03-10",
+    "value": 5.1,
+    "totalTimeMinutes": 36.8,
+    "totalDistanceMiles": 5.1
+  },
+  {
+    "day": "2021-04-17",
+    "value": 8.2,
+    "totalTimeMinutes": 63.7,
+    "totalDistanceMiles": 8.2
+  },
+  {
+    "day": "2019-12-01",
+    "value": 8.6,
+    "totalTimeMinutes": 64.1,
+    "totalDistanceMiles": 8.6
+  },
+  {
+    "day": "2020-01-10",
+    "value": 7.1,
+    "totalTimeMinutes": 56.8,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2020-05-29",
+    "value": 5.2,
+    "totalTimeMinutes": 38.7,
+    "totalDistanceMiles": 5.2
+  },
+  {
+    "day": "2021-05-14",
+    "value": 7,
+    "totalTimeMinutes": 50.9,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2021-06-12",
+    "value": 7,
+    "totalTimeMinutes": 54.2,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2022-01-15",
+    "value": 8.1,
+    "totalTimeMinutes": 62.2,
+    "totalDistanceMiles": 8.1
+  },
+  {
+    "day": "2021-07-21",
+    "value": 4.7,
+    "totalTimeMinutes": 35.5,
+    "totalDistanceMiles": 4.7
+  },
+  {
+    "day": "2019-09-29",
+    "value": 8.8,
+    "totalTimeMinutes": 71.4,
+    "totalDistanceMiles": 8.8
+  },
+  {
+    "day": "2020-06-24",
+    "value": 4.4,
+    "totalTimeMinutes": 30.5,
+    "totalDistanceMiles": 4.4
+  },
+  {
+    "day": "2021-10-07",
+    "value": 5,
+    "totalTimeMinutes": 38,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2019-09-17",
+    "value": 5,
+    "totalTimeMinutes": 37,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-03-08",
+    "value": 6.7,
+    "totalTimeMinutes": 52.5,
+    "totalDistanceMiles": 6.7
+  },
+  {
+    "day": "2019-10-08",
+    "value": 5.3,
+    "totalTimeMinutes": 37.9,
+    "totalDistanceMiles": 5.3
+  },
+  {
+    "day": "2019-08-23",
+    "value": 6.3,
+    "totalTimeMinutes": 47.6,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2022-03-29",
+    "value": 7.3,
+    "totalTimeMinutes": 57.1,
+    "totalDistanceMiles": 7.3
+  },
+  {
+    "day": "2021-09-02",
+    "value": 5,
+    "totalTimeMinutes": 41.5,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2021-03-20",
+    "value": 10,
+    "totalTimeMinutes": 75.2,
+    "totalDistanceMiles": 10
+  },
+  {
+    "day": "2021-09-25",
+    "value": 8.6,
+    "totalTimeMinutes": 66,
+    "totalDistanceMiles": 8.6
+  },
+  {
+    "day": "2019-12-19",
+    "value": 5.8,
+    "totalTimeMinutes": 45.2,
+    "totalDistanceMiles": 5.8
+  },
+  {
+    "day": "2022-07-01",
+    "value": 3.6,
+    "totalTimeMinutes": 29.1,
+    "totalDistanceMiles": 3.6
+  },
+  {
+    "day": "2022-04-11",
+    "value": 6,
+    "totalTimeMinutes": 46,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2022-01-10",
+    "value": 6.3,
+    "totalTimeMinutes": 47.2,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2021-11-16",
+    "value": 7.1,
+    "totalTimeMinutes": 58.8,
+    "totalDistanceMiles": 7.1
+  },
+  {
+    "day": "2019-10-01",
+    "value": 3.1,
+    "totalTimeMinutes": 25.9,
+    "totalDistanceMiles": 3.1
+  },
+  {
+    "day": "2021-03-06",
+    "value": 7.5,
+    "totalTimeMinutes": 62.9,
+    "totalDistanceMiles": 7.5
+  },
+  {
+    "day": "2021-10-09",
+    "value": 9.2,
+    "totalTimeMinutes": 71.6,
+    "totalDistanceMiles": 9.2
+  },
+  {
+    "day": "2020-06-23",
+    "value": 5,
+    "totalTimeMinutes": 34.4,
+    "totalDistanceMiles": 5
+  },
+  {
+    "day": "2022-09-13",
+    "value": 7.2,
+    "totalTimeMinutes": 58,
+    "totalDistanceMiles": 7.2
+  },
+  {
+    "day": "2022-01-31",
+    "value": 6,
+    "totalTimeMinutes": 44.6,
+    "totalDistanceMiles": 6
+  },
+  {
+    "day": "2019-09-08",
+    "value": 8.7,
+    "totalTimeMinutes": 68.6,
+    "totalDistanceMiles": 8.7
+  },
+  {
+    "day": "2020-06-14",
+    "value": 5.9,
+    "totalTimeMinutes": 45.1,
+    "totalDistanceMiles": 5.9
+  },
+  {
+    "day": "2021-11-09",
+    "value": 8.4,
+    "totalTimeMinutes": 67.8,
+    "totalDistanceMiles": 8.4
+  },
+  {
+    "day": "2022-10-01",
+    "value": 11,
+    "totalTimeMinutes": 85.5,
+    "totalDistanceMiles": 11
+  },
+  {
+    "day": "2019-12-08",
+    "value": 9.2,
+    "totalTimeMinutes": 68.5,
+    "totalDistanceMiles": 9.2
+  },
+  {
+    "day": "2020-12-20",
+    "value": 6.9,
+    "totalTimeMinutes": 51.8,
+    "totalDistanceMiles": 6.9
+  },
+  {
+    "day": "2020-10-15",
+    "value": 6.3,
+    "totalTimeMinutes": 46.5,
+    "totalDistanceMiles": 6.3
+  },
+  {
+    "day": "2022-02-15",
+    "value": 7,
+    "totalTimeMinutes": 53.4,
+    "totalDistanceMiles": 7
+  },
+  {
+    "day": "2019-11-18",
+    "value": 2.2,
+    "totalTimeMinutes": 29.6,
+    "totalDistanceMiles": 2.2
+  },
+  {
+    "day": "2020-04-04",
+    "value": 6.5,
+    "totalTimeMinutes": 50.6,
+    "totalDistanceMiles": 6.5
+  },
+  {
+    "day": "2021-07-29",
+    "value": 4.9,
+    "totalTimeMinutes": 37.2,
+    "totalDistanceMiles": 4.9
+  },
+  {
+    "day": "2021-05-18",
+    "value": 6,
+    "totalTimeMinutes": 41.5,
+    "totalDistanceMiles": 6
+  }
+]
