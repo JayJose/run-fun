@@ -1,75 +1,75 @@
-import data from "../data/runsByYear.json";
+import data from '../data/runsByYear.json';
 
-import { ResponsiveLine } from "@nivo/line";
+import { ResponsiveLine } from '@nivo/line';
 
-export function MyResponsiveLine() {
+export default function MyResponsiveLine() {
   const myData = data;
-  const colors = ["#fcae91", "#fb6a4a", "#cb181d", "#a50f15"];
+  const colors = ['#fcae91', '#fb6a4a', '#cb181d', '#a50f15'];
 
   return (
     <ResponsiveLine
       data={myData}
-      curve={"linear"}
+      curve={'linear'}
       margin={{ top: 50, right: 110, bottom: 50, left: 60 }}
-      xScale={{ type: "linear", min: 1, max: 12 }}
+      xScale={{ type: 'linear', min: 1, max: 12 }}
       yScale={{
-        type: "linear",
-        min: "auto",
-        max: "auto",
+        type: 'linear',
+        min: 'auto',
+        max: 'auto'
       }}
       yFormat=" >-.0f"
       axisTop={null}
       axisRight={null}
       axisBottom={{
-        orient: "bottom",
+        orient: 'bottom',
         tickSize: 5,
         tickPadding: 5,
         tickRotation: 0,
-        legend: "Month",
+        legend: 'Month',
         legendOffset: 36,
-        legendPosition: "middle",
+        legendPosition: 'middle'
       }}
       axisLeft={{
-        orient: "left",
+        orient: 'left',
         tickSize: 5,
         tickPadding: 5,
         tickRotation: 0,
-        legend: "Cumulative miles",
+        legend: 'Cumulative miles',
         legendOffset: -40,
-        legendPosition: "middle",
+        legendPosition: 'middle'
       }}
       colors={colors}
       pointSize={8}
       //pointColor={{ theme: "background" }}
       pointBorderWidth={2}
-      pointBorderColor={{ from: "serieColor" }}
+      pointBorderColor={{ from: 'serieColor' }}
       pointLabelYOffset={-12}
       useMesh={true}
       legends={[
         {
-          anchor: "top-left",
-          direction: "row",
+          anchor: 'top-left',
+          direction: 'row',
           justify: false,
           translateX: 10,
           translateY: -20,
           itemsSpacing: 0,
-          itemDirection: "left-to-right",
+          itemDirection: 'left-to-right',
           itemWidth: 80,
           itemHeight: 20,
           itemOpacity: 0.75,
           symbolSize: 12,
-          symbolShape: "circle",
-          symbolBorderColor: "rgba(0, 0, 0, .5)",
+          symbolShape: 'circle',
+          symbolBorderColor: 'rgba(0, 0, 0, .5)',
           effects: [
             {
-              on: "hover",
+              on: 'hover',
               style: {
-                itemBackground: "rgba(0, 0, 0, .03)",
-                itemOpacity: 1,
-              },
-            },
-          ],
-        },
+                itemBackground: 'rgba(0, 0, 0, .03)',
+                itemOpacity: 1
+              }
+            }
+          ]
+        }
       ]}
     />
   );

@@ -1,7 +1,7 @@
-import { Text, Heading } from "@chakra-ui/react";
+import { Text, Heading } from '@chakra-ui/react';
 
-import { Container } from "../components/Container";
-import { MyResponsiveLine } from "../components/Line";
+import { Container } from '../components/Container';
+import { MyResponsiveLine } from '../components/Line';
 
 const Index = () => (
   <Container height="100vh">
