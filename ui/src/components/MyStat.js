@@ -4,15 +4,15 @@ import {
   StatNumber,
   StatHelpText,
   StatArrow,
-  StatGroup,
-} from "@chakra-ui/react";
+  StatGroup
+} from '@chakra-ui/react';
 
-export default function MyStat() {
+export default function MyStat({ data }) {
   return (
     <Stat>
-      <StatLabel>Collected Fees</StatLabel>
-      <StatNumber>£0.00</StatNumber>
-      <StatHelpText>Feb 12 - Feb 28</StatHelpText>
+      <StatLabel>{data.field}</StatLabel>
+      <StatNumber>{data.value}</StatNumber>
+      <StatHelpText>{data.footer}</StatHelpText>
     </Stat>
   );
 }
