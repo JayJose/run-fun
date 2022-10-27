@@ -24,7 +24,7 @@ const textData3 = { field: 'Avg. Pace', value: 100, footer: 'Min. per mile' };
 
 const Index = () => (
   <Container maxW="container.xl" p={{ base: 0, md: 3 }} background={'blue.200'}>
-    <Heading m={5}>I am the header.</Heading>
+    <Heading m={5}>Run.</Heading>
     <Divider width={'90%'}></Divider>
     <VStack height={'100vh'} width={'100%'}>
       <Stack
