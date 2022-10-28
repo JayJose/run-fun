@@ -1,8 +1,9 @@
 import data from '../data/runsByYear.json';
+import data2 from '../data/cumRunsByDay.json';
 
 import { ResponsiveLine } from '@nivo/line';
 
-export default function MyResponsiveLine() {
+export function MyResponsiveLine() {
   const myData = data;
   const colors = ['#fcae91', '#fb6a4a', '#cb181d', '#a50f15'];
 
@@ -71,6 +72,51 @@ export default function MyResponsiveLine() {
           ]
         }
       ]}
+    />
+  );
+}
+
+export function MyResponsiveDailyLine() {
+  const myData = data2;
+  const color = '#FF69B4';
+  return (
+    <ResponsiveLine
+      data={myData}
+      colors={color}
+      curve={'linear'}
+      margin={{ top: 50, right: 110, bottom: 100, left: 60 }}
+      yScale={{
+        type: 'linear',
+        min: 'auto',
+        max: 'auto'
+      }}
+      yFormat="<-,.0f"
+      axisTop={null}
+      axisRight={null}
+      axisBottom={{
+        orient: 'bottom',
+        tickSize: 5,
+        tickPadding: 5,
+        tickRotation: -45,
+        legendOffset: 36,
+        legendPosition: 'middle'
+      }}
+      axisLeft={{
+        orient: 'left',
+        tickSize: 0,
+        tickPadding: 5,
+        tickRotation: 0,
+        legend: 'Miles',
+        legendOffset: -50,
+        legendPosition: 'middle',
+        format: '>-,.0f'
+      }}
+      pointSize={8}
+      //pointColor={{ theme: "background" }}
+      pointBorderWidth={2}
+      pointBorderColor={{ from: 'serieColor' }}
+      pointLabelYOffset={-12}
+      useMesh={true}
     />
   );
 }

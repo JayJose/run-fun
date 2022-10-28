@@ -18,7 +18,12 @@ import { mongod, countAgg, statsAgg } from '../lib/mongodb';
 
 // CHARTS
 import MyResponsiveCalendar from '../components/Calendar';
-import MyResponsiveLine from '../components/Line';
+import { MyResponsiveLine, MyResponsiveDailyLine } from '../components/Line';
+
+async function getAggregateData(collection, aggregate) {
+  cursor = collection.aggregate(aggregate);
+  return await cursor.toArray();
+}
 
 // STATIC PROPS
 export async function getStaticProps() {
@@ -26,6 +31,7 @@ export async function getStaticProps() {
   const coll = mongod.db('rundb').collection('runs');
 
   // TODO fix this...
+  //  const counts = getAggregateData(coll, countAgg);
   const cursor1 = coll.aggregate(countAgg);
   const result1 = await cursor1.toArray();
 
@@ -41,10 +47,10 @@ export async function getStaticProps() {
 }
 
 function Index(props) {
-  console.log(props);
   const totalRuns = props.count[0].totalRuns;
   const totalDistance = props.stats[0].totalDistanceMiles;
   const totalTime = props.stats[0].totalTimeMinutes;
+  const maxDistance = props.stats[0].maxDistanceMiles;
   const totalCalories = props.stats[0].totalCalories;
 
   const avgDistance = totalDistance / totalRuns;
@@ -84,9 +90,16 @@ function Index(props) {
           />
           <MyStat
             data={{
-              field: 'Energy Use',
+              field: 'Avg. Pace',
+              value: avgPace,
+              footer: 'Min. per mile'
+            }}
+          />
+          <MyStat
+            data={{
+              field: 'Energy Used',
               value: totalCalories,
-              footer: 'Calories burned'
+              footer: 'Calories'
             }}
           />
         </Stack>
@@ -100,8 +113,9 @@ function Index(props) {
           </Text>
         </HStack>
         <Divider width={'90%'}></Divider>
-        <MyResponsiveCalendar />
-        <MyResponsiveLine />
+        {/* <MyResponsiveCalendar /> */}
+        {/* <MyResponsiveLine /> */}
+        <MyResponsiveDailyLine />
       </VStack>
     </Container>
   );

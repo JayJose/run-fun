@@ -59,7 +59,7 @@ export const statsAgg = [
         $sum: '$lap.total_distance'
       },
       totalTimeSeconds: {
-        $sum: '$lap.total_elapsed_time'
+        $sum: '$lap.total_timer_time'
       },
       totalCalories: {
         $sum: '$lap.total_calories'
@@ -91,6 +91,103 @@ export const statsAgg = [
       totalCalories: {
         $round: ['$totalCalories', 1]
       }
+    }
+  }
+];
+
+// CUMULATIVE MILES BY DAY
+export const dayCumAgg = [
+  {
+    $unset: [
+      'record',
+      'username',
+      'total_timer_time',
+      'event',
+      'event_type',
+      'type',
+      'num_sessions',
+      'timestamp'
+    ]
+  },
+  {
+    $unwind: {
+      path: '$lap'
+    }
+  },
+  {
+    $match: {
+      'lap.sport': {
+        $eq: 'running'
+      }
+    }
+  },
+  {
+    $addFields: {
+      date: {
+        $toDate: '$local_timestamp'
+      },
+      miles: {
+        $divide: ['$lap.total_distance', 1609]
+      }
+    }
+  },
+  {
+    $group: {
+      _id: '$date',
+      totalMiles: {
+        $sum: '$miles'
+      }
+    }
+  },
+  {
+    $setWindowFields: {
+      partitionBy: null,
+      sortBy: {
+        _id: 1
+      },
+      output: {
+        cumTotalMiles: {
+          $sum: '$totalMiles',
+          window: {
+            documents: ['unbounded', 'current']
+          }
+        }
+      }
+    }
+  },
+  {
+    $group: {
+      _id: '$_id.year',
+      data: {
+        $addToSet: {
+          x: {
+            $dateToString: {
+              format: '%Y-%m-%d',
+              date: '$_id'
+            }
+          },
+          y: '$cumTotalMiles'
+        }
+      }
+    }
+  },
+  {
+    $project: {
+      _id: 0,
+      id: '$_id',
+      data: {
+        $sortArray: {
+          input: '$data',
+          sortBy: {
+            x: 1
+          }
+        }
+      }
+    }
+  },
+  {
+    $sort: {
+      id: 1
     }
   }
 ];
