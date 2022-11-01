@@ -12,8 +12,12 @@ export function MyMap() {
   // create path attribute
   data.forEach((run) => {
     run.path = [];
-    run.record.forEach((c) => {
-      run.path.push([c.position_long, c.position_lat]);
+    run.record.forEach((c, i) => {
+      if (i % 5 === 0) {
+        if ((c.position_long !== null) & (c.position_lat !== null)) {
+          run.path.push([c.position_long, c.position_lat]);
+        }
+      }
     });
   });
 
@@ -32,12 +36,6 @@ export function MyMap() {
 
   const updateViewState = ({ viewState }) => {
     setViewState(viewState);
-  };
-
-  const onHover = (info) => {
-    info && {
-      html: `${info.object.properties.NAME}`
-    };
   };
 
   // LAYERS
@@ -72,7 +70,7 @@ export function MyMap() {
           onViewStateChange={updateViewState}
           getTooltip={({ object }) =>
             object && {
-              html: `${object.name}`
+              html: `<h1>${object.local_timestamp}</h1>`
             }
           }
         >
