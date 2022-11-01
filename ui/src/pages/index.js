@@ -4,7 +4,9 @@ import {
   HStack,
   VStack,
   Stack,
-  Divider
+  Divider,
+  Box,
+  Flex
 } from '@chakra-ui/react';
 
 import { Container } from '../components/Container';
@@ -19,6 +21,7 @@ import { mongod, countAgg, statsAgg } from '../lib/mongodb';
 // CHARTS
 import MyResponsiveCalendar from '../components/Calendar';
 import { MyResponsiveLine, MyResponsiveDailyLine } from '../components/Line';
+import { MyMap } from '../components/MyMap';
 
 async function getAggregateData(collection, aggregate) {
   cursor = collection.aggregate(aggregate);
@@ -113,9 +116,7 @@ function Index(props) {
           </Text>
         </HStack>
         <Divider width={'90%'}></Divider>
-        {/* <MyResponsiveCalendar /> */}
-        {/* <MyResponsiveLine /> */}
-        <MyResponsiveDailyLine />
+        <MyMap></MyMap>
       </VStack>
     </Container>
   );

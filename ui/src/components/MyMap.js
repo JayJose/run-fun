@@ -1,19 +1,24 @@
+import { useState } from 'react';
+
 import StaticMap from 'react-map-gl';
-import { BASEMAP } from '@deck.gl/carto';
 import { DeckGL } from '@deck.gl/react';
 import { PathLayer } from '@deck.gl/layers';
 
-import aRoute from '../data/aRoute.json';
+import data from '../data/routes.json';
 
 /** Generate a map of Atlanta
  */
 export function MyMap() {
-  // transform data
-  // {
-  //     path: [[-122.4, 37.7], [-122.5, 37.8], [-122.6, 37.85]],
-  //     name: 'Richmond - Millbrae',
-  //     color: [255, 0, 0]
-  // }
+  // create path attribute
+  data.forEach((run) => {
+    run.path = [];
+    run.record.forEach((c) => {
+      run.path.push([c.position_long, c.position_lat]);
+    });
+  });
+
+  const MAPBOX_ACCESS_TOKEN =
+    'pk.eyJ1IjoiamF5am9zZSIsImEiOiJjbDhzczVoeW4wMGdlM3BuemU0aTh1cXF6In0.P6rxnD9XAxmufeHZRMwGOw';
 
   const indexViewState = {
     latitude: 33.73,
@@ -38,13 +43,15 @@ export function MyMap() {
   // LAYERS
   const pathLayer = new PathLayer({
     id: 'path-layer',
-    aRoute,
-    pickable: true,
-    widthScale: 20,
-    widthMinPixels: 2,
+    data: data,
+    widthScale: 1,
+    widthMinPixels: 3,
     getPath: (d) => d.path,
-    getColor: (d) => colorToRGBArray(d.color),
-    getWidth: (d) => 5
+    getColor: [255, 0, 0, 40],
+    getWidth: (d) => 5,
+    pickable: true,
+    autoHighlight: true,
+    highlightColor: [111, 255, 176]
   });
 
   return (
@@ -65,14 +72,13 @@ export function MyMap() {
           onViewStateChange={updateViewState}
           getTooltip={({ object }) =>
             object && {
-              html: `${object.properties.NAME}`
+              html: `${object.name}`
             }
           }
         >
           <StaticMap
-            reuseMaps
-            mapStyle={BASEMAP.DARK_MATTER}
-            //mapboxAccessToken={process.env.mapboxAccessToken}
+            mapboxAccessToken={MAPBOX_ACCESS_TOKEN}
+            mapStyle={'mapbox://styles/mapbox/light-v10'}
           ></StaticMap>
         </DeckGL>
       </div>

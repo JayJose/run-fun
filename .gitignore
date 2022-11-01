@@ -128,3 +128,4 @@ dmypy.json
 
 *.fit
 .vscode
+*routes.json
